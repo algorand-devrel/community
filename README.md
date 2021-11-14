@@ -21,13 +21,14 @@ Suggestions
 
 - should allow definition of complex data types (lists, sets, maps, structs)
 - should provide an abstract class to subclass for smart contracts/signatures
-
+- ABI methods produce IDL for generating a client
 ### SDKs
 
-- provide a min balance function
-- provide an arbitrary sign/verify bytes (no MX prefix as domain separator)
+- provide a min balance function either SDK or apis
+- provide an arbitrary sign/verify bytes (no MX prefix as domain separator) 
+- Read IDL and produce a client which works well with SDKs 
 
 ### Community Projects
-    
+
 - Awesome Algorand repo with open source community projects
 
