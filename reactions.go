@@ -8,6 +8,13 @@ import (
 	"github.com/google/go-github/v40/github" // with go modules enabled (GO111MODULE=on or outside GOPATH)
 )
 
+const template = `
+Issue Reaction Counter
+----------------------
+
+
+`
+
 func main() {
 	ctx := context.Background()
 	client := github.NewClient(nil)
@@ -17,6 +24,7 @@ func main() {
 		log.Fatalf("Failed to get issues: %+v", err)
 	}
 
+	fmt.Printf("%s", template)
 	for _, issue := range issues {
 		fmt.Printf("- *%s* ", *issue.Title)
 
@@ -28,9 +36,5 @@ func main() {
 		fmt.Printf(" :hooray: %d", *issue.Reactions.Hooray)
 		fmt.Printf(" :rocket: %d", *issue.Reactions.Rocket)
 		fmt.Printf(" :eyes: %d\n", *issue.Reactions.Eyes)
-
-		//for reaction, cnt := range issue.Reactions {
-		//	fmt.Printf(":%s: : %d\n", reaction, cnt)
-		//}
 	}
 }
