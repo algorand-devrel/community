@@ -22,7 +22,7 @@ Not sure what the reactions mean yet but I want to get a sense for how popular t
 Feel free to file another issue and I'll re-run this script, maybe setup some github action to do it automatically?
 
 
-| Title | :heavy_plus_sign: | :heavy_minus_sign: |
+| Title | :+1: | :-1: |
 | ----- | -- | ---- |
 `
 
