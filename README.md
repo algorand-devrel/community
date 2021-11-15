@@ -2,6 +2,12 @@
 Issue Reaction Counter
 ----------------------
 
+Below is the title and reaction count for issues filed in this repository
+
+Not sure what the reactions mean yet but I want to get a sense for how popular these issues are to help with prioritization
+
+Feel free to file another issue and I'll re-run this script, maybe setup some github action to do it automatically?
+
 
  - *ABI - Provide tooling for IDL specification and client generation*  :heavy_plus_sign: 0 :heavy_minus_sign: 0 :laughing: 0 :confused: 0 :heart: 0 :tada: 0 :rocket: 0 :eyes: 0
 - *Docs - Examples in order of increasing difficulty*  :heavy_plus_sign: 0 :heavy_minus_sign: 0 :laughing: 0 :confused: 0 :heart: 0 :tada: 0 :rocket: 0 :eyes: 0

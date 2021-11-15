@@ -15,6 +15,12 @@ const template = `
 Issue Reaction Counter
 ----------------------
 
+Below is the title and reaction count for issues filed in this repository
+
+Not sure what the reactions mean yet but I want to get a sense for how popular these issues are to help with prioritization
+
+Feel free to file another issue and I'll re-run this script, maybe setup some github action to do it automatically?
+
 
 `
 
