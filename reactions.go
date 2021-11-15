@@ -22,6 +22,8 @@ Not sure what the reactions mean yet but I want to get a sense for how popular t
 Feel free to file another issue and I'll re-run this script, maybe setup some github action to do it automatically?
 
 
+| Title | :heavy_plus_sign: | :heavy_minus_sign: |
+| ----- | -- | ---- |
 `
 
 func main() {
@@ -40,24 +42,22 @@ func main() {
 
 	// TODO: check only open issues
 	// TODO: sort by reactions?
-	// TODO: make it readable with a table or something
-	// TODO: add link to issue
 	// TODO: elipsis for title after N char
 	var lines []string
 	for _, issue := range issues {
-		line := fmt.Sprintf("- *%s* ", *issue.Title)
-		line += fmt.Sprintf(" :heavy_plus_sign: %d", *issue.Reactions.PlusOne)
-		line += fmt.Sprintf(" :heavy_minus_sign: %d", *issue.Reactions.MinusOne)
-		line += fmt.Sprintf(" :laughing: %d", *issue.Reactions.Laugh)
-		line += fmt.Sprintf(" :confused: %d", *issue.Reactions.Confused)
-		line += fmt.Sprintf(" :heart: %d", *issue.Reactions.Heart)
-		line += fmt.Sprintf(" :tada: %d", *issue.Reactions.Hooray)
-		line += fmt.Sprintf(" :rocket: %d", *issue.Reactions.Rocket)
-		line += fmt.Sprintf(" :eyes: %d", *issue.Reactions.Eyes)
+		line := fmt.Sprintf("| [%s](%s) |", *issue.Title, *issue.URL)
+		line += fmt.Sprintf(" %d |", *issue.Reactions.PlusOne)
+		line += fmt.Sprintf(" %d |", *issue.Reactions.MinusOne)
+		//line += fmt.Sprintf(" :laughing: %d", *issue.Reactions.Laugh)
+		//line += fmt.Sprintf(" :confused: %d", *issue.Reactions.Confused)
+		//line += fmt.Sprintf(" :heart: %d", *issue.Reactions.Heart)
+		//line += fmt.Sprintf(" :tada: %d", *issue.Reactions.Hooray)
+		//line += fmt.Sprintf(" :rocket: %d", *issue.Reactions.Rocket)
+		//line += fmt.Sprintf(" :eyes: %d", *issue.Reactions.Eyes)
 		lines = append(lines, line)
 	}
 	sort.Strings(lines)
 
-	fmt.Fprintf(f, "%s %s", template, strings.Join(lines, "\n"))
+	fmt.Fprintf(f, "%s%s", template, strings.Join(lines, "\n"))
 	f.Close()
 }
