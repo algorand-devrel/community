@@ -45,7 +45,7 @@ func main() {
 	// TODO: elipsis for title after N char
 	var lines []string
 	for _, issue := range issues {
-		line := fmt.Sprintf("| [%s](%s) |", *issue.Title, *issue.URL)
+		line := fmt.Sprintf("| [%s](%s) |", *issue.Title, *issue.HTMLURL)
 		line += fmt.Sprintf(" %d |", *issue.Reactions.PlusOne)
 		line += fmt.Sprintf(" %d |", *issue.Reactions.MinusOne)
 		//line += fmt.Sprintf(" :laughing: %d", *issue.Reactions.Laugh)
