@@ -5,6 +5,8 @@ import (
 	"fmt"
 	"log"
 	"os"
+	"sort"
+	"strings"
 
 	"github.com/google/go-github/v40/github" // with go modules enabled (GO111MODULE=on or outside GOPATH)
 )
@@ -25,23 +27,27 @@ func main() {
 		log.Fatalf("Failed to get issues: %+v", err)
 	}
 
-	f, err := os.Create("REACTIONS.md")
+	f, err := os.Create("README.md")
 	if err != nil {
 		log.Fatalf("Failed to create README file: %+v", err)
 	}
 
-	fmt.Fprintf(f, "%s", template)
-	for _, issue := range issues {
-		fmt.Fprintf(f, "- *%s* ", *issue.Title)
-		fmt.Fprintf(f, " :heavy_plus_sign: %d", *issue.Reactions.PlusOne)
-		fmt.Fprintf(f, " :heavy_minus_sign: %d", *issue.Reactions.MinusOne)
-		fmt.Fprintf(f, " :laughing: %d", *issue.Reactions.Laugh)
-		fmt.Fprintf(f, " :confused: %d", *issue.Reactions.Confused)
-		fmt.Fprintf(f, " :heart: %d", *issue.Reactions.Heart)
-		fmt.Fprintf(f, " :tada: %d", *issue.Reactions.Hooray)
-		fmt.Fprintf(f, " :rocket: %d", *issue.Reactions.Rocket)
-		fmt.Fprintf(f, " :eyes: %d\n", *issue.Reactions.Eyes)
-	}
+	var lines []string
 
+	for _, issue := range issues {
+		line := fmt.Sprintf("- *%s* ", *issue.Title)
+		line += fmt.Sprintf(" :heavy_plus_sign: %d", *issue.Reactions.PlusOne)
+		line += fmt.Sprintf(" :heavy_minus_sign: %d", *issue.Reactions.MinusOne)
+		line += fmt.Sprintf(" :laughing: %d", *issue.Reactions.Laugh)
+		line += fmt.Sprintf(" :confused: %d", *issue.Reactions.Confused)
+		line += fmt.Sprintf(" :heart: %d", *issue.Reactions.Heart)
+		line += fmt.Sprintf(" :tada: %d", *issue.Reactions.Hooray)
+		line += fmt.Sprintf(" :rocket: %d", *issue.Reactions.Rocket)
+		line += fmt.Sprintf(" :eyes: %d", *issue.Reactions.Eyes)
+		lines = append(lines, line)
+	}
+	sort.Strings(lines)
+
+	fmt.Fprintf(f, "%s %s", template, strings.Join(lines, "\n"))
 	f.Close()
 }
