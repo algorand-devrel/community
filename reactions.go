@@ -8,7 +8,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/google/go-github/v40/github" // with go modules enabled (GO111MODULE=on or outside GOPATH)
+	"github.com/google/go-github/v40/github"
 )
 
 const template = `
@@ -38,8 +38,12 @@ func main() {
 		log.Fatalf("Failed to create README file: %+v", err)
 	}
 
+	// TODO: check only open issues
+	// TODO: sort by reactions?
+	// TODO: make it readable with a table or something
+	// TODO: add link to issue
+	// TODO: elipsis for title after N char
 	var lines []string
-
 	for _, issue := range issues {
 		line := fmt.Sprintf("- *%s* ", *issue.Title)
 		line += fmt.Sprintf(" :heavy_plus_sign: %d", *issue.Reactions.PlusOne)
