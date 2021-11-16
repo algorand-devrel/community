@@ -9,6 +9,7 @@ Not sure what the reactions mean yet but I want to get a sense for how popular t
 Feel free to file another issue and I'll re-run this script, maybe setup some github action to do it automatically?
 
 
+
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
 | [ABI - Provide tooling for IDL specification and client generation](https://github.com/algorand-devrel/community/issues/11) | 0 | 0 |
@@ -27,4 +28,4 @@ Feel free to file another issue and I'll re-run this script, maybe setup some gi
 | [SDKs - Provide an arbitrary byte sign/verify](https://github.com/algorand-devrel/community/issues/10) | 0 | 0 |
 | [Sandbox - Freeze/Restore to known state](https://github.com/algorand-devrel/community/issues/3) | 0 | 0 |
 | [Sandbox - Multiple Concurrent Instances](https://github.com/algorand-devrel/community/issues/4) | 0 | 0 |
-| [TEAL - Produce Assembly Map During Compilation](https://github.com/algorand-devrel/community/issues/17) | 0 | 0 |
+| [TEAL - Produce Assembly Map During Compilation](https://github.com/algorand-devrel/community/issues/17) | 2 | 0 |
