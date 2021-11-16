@@ -11,6 +11,13 @@ import (
 	"github.com/google/go-github/v40/github"
 )
 
+// TODO: check only open issues
+// TODO: sort by reactions?
+// TODO: elipsis for title after N char
+// TODO: more repos
+// TODO: count comments
+// TODO: unique contribs
+
 const template = `
 Issue Reaction Counter
 ----------------------
@@ -20,6 +27,7 @@ Below is the title and reaction count for issues filed in this repository
 Not sure what the reactions mean yet but I want to get a sense for how popular these issues are to help with prioritization
 
 Feel free to file another issue and I'll re-run this script, maybe setup some github action to do it automatically?
+
 
 
 | Title | :+1: | :-1: |
@@ -40,20 +48,11 @@ func main() {
 		log.Fatalf("Failed to create README file: %+v", err)
 	}
 
-	// TODO: check only open issues
-	// TODO: sort by reactions?
-	// TODO: elipsis for title after N char
 	var lines []string
 	for _, issue := range issues {
 		line := fmt.Sprintf("| [%s](%s) |", *issue.Title, *issue.HTMLURL)
 		line += fmt.Sprintf(" %d |", *issue.Reactions.PlusOne)
 		line += fmt.Sprintf(" %d |", *issue.Reactions.MinusOne)
-		//line += fmt.Sprintf(" :laughing: %d", *issue.Reactions.Laugh)
-		//line += fmt.Sprintf(" :confused: %d", *issue.Reactions.Confused)
-		//line += fmt.Sprintf(" :heart: %d", *issue.Reactions.Heart)
-		//line += fmt.Sprintf(" :tada: %d", *issue.Reactions.Hooray)
-		//line += fmt.Sprintf(" :rocket: %d", *issue.Reactions.Rocket)
-		//line += fmt.Sprintf(" :eyes: %d", *issue.Reactions.Eyes)
 		lines = append(lines, line)
 	}
 	sort.Strings(lines)
