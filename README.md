@@ -1,13 +1,10 @@
 
-Issue Reaction Counter
+Community Interest Tracker
 ----------------------
 
-Below is the title and reaction count for issues filed in this repository
+Below is the title and reaction count for issues filed in all Algorand-owned repositories. Issues labeled with the "community interest" label will appear on this list. Anybody is welcome to add this label to an issue, and express their preference or disagreement with an issue by reacting with :+1: or :-1:.
 
-Not sure what the reactions mean yet but I want to get a sense for how popular these issues are to help with prioritization
-
-Feel free to file another issue and I'll re-run this script, maybe setup some github action to do it automatically?
-
+This tracker is used to gauge community interest in different features or improvements. A high interest count (many :+1:) does not guarantee the issue will be worked on since there are many other factors that go into that decision, but these counts serve as input to prioritization decisions.
 
 
 | Title | :+1: | :-1: |
