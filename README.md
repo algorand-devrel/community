@@ -11,7 +11,7 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [ABI - Provide tooling for IDL specification and client generation](https://github.com/algorand-devrel/community/issues/11) | 0 | 0 |
 | [Demo App - Cron like functionality](https://github.com/algorand-devrel/community/issues/15) | 0 | 0 |
-| [Demo App - DAO](https://github.com/algorand-devrel/community/issues/16) | 0 | 0 |
+| [Demo App - DAO](https://github.com/algorand-devrel/community/issues/16) | 1 | 0 |
 | [Demo App - Multisignature Collaboration Tool](https://github.com/algorand-devrel/community/issues/14) | 0 | 0 |
 | [Discord - Documentation Bot](https://github.com/algorand-devrel/community/issues/13) | 0 | 0 |
 | [Docs - Examples in order of increasing difficulty](https://github.com/algorand-devrel/community/issues/5) | 1 | 0 |
