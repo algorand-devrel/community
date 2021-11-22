@@ -22,7 +22,7 @@ This tracker is used to gauge community interest in different features or improv
 | [PyTEAL - Complex Types](https://github.com/algorand-devrel/community/issues/7) | 1 | 0 |
 | [PyTEAL - Provide ABI method decorator that handles selector creation/routing](https://github.com/algorand-devrel/community/issues/12) | 0 | 0 |
 | [SDKs - Provide a `min_balance` like function](https://github.com/algorand-devrel/community/issues/9) | 1 | 0 |
-| [SDKs - Provide an arbitrary byte sign/verify](https://github.com/algorand-devrel/community/issues/10) | 2 | 0 |
+| [SDKs - Provide an arbitrary byte sign/verify](https://github.com/algorand-devrel/community/issues/10) | 3 | 0 |
 | [Sandbox - Freeze/Restore to known state](https://github.com/algorand-devrel/community/issues/3) | 0 | 0 |
 | [Sandbox - Multiple Concurrent Instances](https://github.com/algorand-devrel/community/issues/4) | 0 | 0 |
 | [TEAL - Produce Assembly Map During Compilation](https://github.com/algorand-devrel/community/issues/17) | 3 | 0 |
