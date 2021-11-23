@@ -6,7 +6,6 @@ import (
 	"log"
 	"os"
 	"sort"
-	"strings"
 
 	"github.com/google/go-github/v40/github"
 )
@@ -31,6 +30,11 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 `
 
+type Issue struct {
+	text  string
+	tally int
+}
+
 func main() {
 	ctx := context.Background()
 	client := github.NewClient(nil)
@@ -40,20 +44,29 @@ func main() {
 		log.Fatalf("Failed to get issues: %+v", err)
 	}
 
+	var issueList []Issue
+	for _, issue := range issues {
+		line := fmt.Sprintf("| [%s](%s) |", *issue.Title, *issue.HTMLURL)
+		line += fmt.Sprintf(" %d |", *issue.Reactions.PlusOne)
+		line += fmt.Sprintf(" %d |", *issue.Reactions.MinusOne)
+
+		issueList = append(issueList, Issue{text: line, tally: *issue.Reactions.PlusOne - *issue.Reactions.MinusOne})
+	}
+
+	// Sort by tally
+	sort.SliceStable(issueList, func(i, j int) bool {
+		return issueList[i].tally > issueList[j].tally
+	})
+
 	f, err := os.Create("README.md")
 	if err != nil {
 		log.Fatalf("Failed to create README file: %+v", err)
 	}
 
-	var lines []string
-	for _, issue := range issues {
-		line := fmt.Sprintf("| [%s](%s) |", *issue.Title, *issue.HTMLURL)
-		line += fmt.Sprintf(" %d |", *issue.Reactions.PlusOne)
-		line += fmt.Sprintf(" %d |", *issue.Reactions.MinusOne)
-		lines = append(lines, line)
+	fmt.Fprintf(f, "%s", template)
+	for _, issue := range issueList {
+		fmt.Fprintf(f, "%s\n", issue.text)
 	}
-	sort.Strings(lines)
 
-	fmt.Fprintf(f, "%s%s", template, strings.Join(lines, "\n"))
 	f.Close()
 }
