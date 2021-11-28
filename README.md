@@ -11,7 +11,7 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [TEAL - Produce Assembly Map During Compilation](https://github.com/algorand-devrel/community/issues/17) | 4 | 0 |
 | [SDKs - Provide an arbitrary byte sign/verify](https://github.com/algorand-devrel/community/issues/10) | 4 | 0 |
-| [PyTEAL - Complex Types](https://github.com/algorand-devrel/community/issues/7) | 3 | 0 |
+| [PyTEAL - Complex Types](https://github.com/algorand-devrel/community/issues/7) | 4 | 0 |
 | [SDKs - Provide a `min_balance` like function](https://github.com/algorand-devrel/community/issues/9) | 2 | 0 |
 | [PyTEAL - Application Routing Abstract Class](https://github.com/algorand-devrel/community/issues/8) | 2 | 0 |
 | [Docs - Examples in order of increasing difficulty](https://github.com/algorand-devrel/community/issues/5) | 2 | 0 |
