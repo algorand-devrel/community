@@ -9,13 +9,13 @@ This tracker is used to gauge community interest in different features or improv
 
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
+| [PyTEAL - Complex Types](https://github.com/algorand-devrel/community/issues/7) | 5 | 0 |
 | [TEAL - Produce Assembly Map During Compilation](https://github.com/algorand-devrel/community/issues/17) | 4 | 0 |
 | [SDKs - Provide an arbitrary byte sign/verify](https://github.com/algorand-devrel/community/issues/10) | 4 | 0 |
-| [PyTEAL - Complex Types](https://github.com/algorand-devrel/community/issues/7) | 4 | 0 |
+| [Demo App - DAO](https://github.com/algorand-devrel/community/issues/16) | 2 | 0 |
 | [SDKs - Provide a `min_balance` like function](https://github.com/algorand-devrel/community/issues/9) | 2 | 0 |
 | [PyTEAL - Application Routing Abstract Class](https://github.com/algorand-devrel/community/issues/8) | 2 | 0 |
 | [Docs - Examples in order of increasing difficulty](https://github.com/algorand-devrel/community/issues/5) | 2 | 0 |
-| [Demo App - DAO](https://github.com/algorand-devrel/community/issues/16) | 1 | 0 |
 | [Demo App - Multisignature Collaboration Tool](https://github.com/algorand-devrel/community/issues/14) | 1 | 0 |
 | [Discord - Documentation Bot](https://github.com/algorand-devrel/community/issues/13) | 1 | 0 |
 | [Sandbox - Multiple Concurrent Instances](https://github.com/algorand-devrel/community/issues/4) | 1 | 0 |
