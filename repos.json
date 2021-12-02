@@ -1,0 +1,7 @@
+{
+    "repos":[
+        {"org": "algorand", "name":"go-algorand", "labels":["new-feature-request"]},
+        {"org": "algorand", "name":"pyteal", "labels":["new-feature-request"]},
+        {"org": "algorand-devrel", "name":"community", "labels":[]}
+    ]
+}
