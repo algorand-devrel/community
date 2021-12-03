@@ -17,6 +17,7 @@ This tracker is used to gauge community interest in different features or improv
 | [Make `goal account changeonlinestatus` support `goal clerk send` lsig and msig flags](https://github.com/algorand/go-algorand/issues/1597) | 2 | 0 |
 | [Add ability to advance time when network is in devmode](https://github.com/algorand/go-algorand/issues/3192) | 1 | 0 |
 | [Documentation on how to run using docker](https://github.com/algorand/go-algorand/issues/2862) | 1 | 0 |
+| [Straightforward "view" or "pure" app calls](https://github.com/algorand/go-algorand/issues/2520) | 1 | 0 |
 | [Streamline goal grouping/splitting/combining tx files](https://github.com/algorand/go-algorand/issues/2023) | 1 | 0 |
 | [Pairing function needed as single opcode](https://github.com/algorand/go-algorand/issues/3253) | 0 | 0 |
 | [Delete KMD wallet](https://github.com/algorand/go-algorand/issues/3249) | 0 | 0 |
@@ -40,7 +41,6 @@ This tracker is used to gauge community interest in different features or improv
 | [Metadata field for Asset](https://github.com/algorand/go-algorand/issues/2714) | 0 | 0 |
 | [Improve dryrun/TEAL debugger](https://github.com/algorand/go-algorand/issues/2637) | 0 | 0 |
 | [investigate: Add support in Apple M1 machines](https://github.com/algorand/go-algorand/issues/2553) | 0 | 0 |
-| [Straightforward "view" or "pure" app calls](https://github.com/algorand/go-algorand/issues/2520) | 0 | 0 |
 | [ARM APT Repo Support ](https://github.com/algorand/go-algorand/issues/2117) | 0 | 0 |
 | [Create Private Network with Specific Keys](https://github.com/algorand/go-algorand/issues/2048) | 0 | 0 |
 | [Allow algokey to securely prompt for passcode](https://github.com/algorand/go-algorand/issues/2008) | 0 | 0 |
@@ -80,6 +80,7 @@ This tracker is used to gauge community interest in different features or improv
 | [Demo App - DAO](https://github.com/algorand-devrel/community/issues/16) | 2 | 0 |
 | [SDKs - Provide a `min_balance` like function](https://github.com/algorand-devrel/community/issues/9) | 2 | 0 |
 | [PyTEAL - Application Routing Abstract Class](https://github.com/algorand-devrel/community/issues/8) | 2 | 0 |
+| [SDKs - Provide Sandbox Account Utility Functions](https://github.com/algorand-devrel/community/issues/20) | 1 | 0 |
 | [Demo App - Multisignature Collaboration Tool](https://github.com/algorand-devrel/community/issues/14) | 1 | 0 |
 | [Discord - Documentation Bot](https://github.com/algorand-devrel/community/issues/13) | 1 | 0 |
 | [Sandbox - Multiple Concurrent Instances](https://github.com/algorand-devrel/community/issues/4) | 1 | 0 |
