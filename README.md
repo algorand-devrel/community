@@ -19,6 +19,7 @@ This tracker is used to gauge community interest in different features or improv
 | [Documentation on how to run using docker](https://github.com/algorand/go-algorand/issues/2862) | 1 | 0 |
 | [Straightforward "view" or "pure" app calls](https://github.com/algorand/go-algorand/issues/2520) | 1 | 0 |
 | [Streamline goal grouping/splitting/combining tx files](https://github.com/algorand/go-algorand/issues/2023) | 1 | 0 |
+| [Add ABI Interaction Support to E2E Python Goal Wrapper](https://github.com/algorand/go-algorand/issues/3274) | 0 | 0 |
 | [Pairing function needed as single opcode](https://github.com/algorand/go-algorand/issues/3253) | 0 | 0 |
 | [Delete KMD wallet](https://github.com/algorand/go-algorand/issues/3249) | 0 | 0 |
 | [bn128 is needed ](https://github.com/algorand/go-algorand/issues/3217) | 0 | 0 |
