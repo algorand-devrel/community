@@ -9,6 +9,7 @@ This tracker is used to gauge community interest in different features or improv
 ## go-algorand
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
+| [Goal remote node config](https://github.com/algorand/go-algorand/issues/2904) | 2 | 0 |
 | [Delete KMD wallet](https://github.com/algorand/go-algorand/issues/3249) | 0 | 0 |
 
 ## pyteal
