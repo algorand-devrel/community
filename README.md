@@ -16,6 +16,7 @@ This tracker is used to gauge community interest in different features or improv
 | [Tealdbg - Allow edit of contract source](https://github.com/algorand/go-algorand/issues/3302) | 1 | 0 |
 | [Delete KMD wallet](https://github.com/algorand/go-algorand/issues/3249) | 1 | 0 |
 | [Add ability to advance time when network is in devmode](https://github.com/algorand/go-algorand/issues/3192) | 1 | 0 |
+| [Assert with reason code](https://github.com/algorand/go-algorand/issues/3013) | 1 | 0 |
 
 ## pyteal
 | Title | :+1: | :-1: |
