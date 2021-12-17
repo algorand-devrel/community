@@ -18,6 +18,11 @@ This tracker is used to gauge community interest in different features or improv
 | [Add ability to advance time when network is in devmode](https://github.com/algorand/go-algorand/issues/3192) | 1 | 0 |
 | [Assert with reason code](https://github.com/algorand/go-algorand/issues/3013) | 1 | 0 |
 
+## indexer
+| Title | :+1: | :-1: |
+| ----- | -- | ---- |
+| [Allow sorting of responses](https://github.com/algorand/indexer/issues/389) | 6 | 0 |
+
 ## pyteal
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |

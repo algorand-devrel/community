@@ -1,6 +1,7 @@
 {
     "repos":[
         {"org": "algorand", "name":"go-algorand", "labels":["community interest"]},
+        {"org": "algorand", "name":"indexer", "labels":["community interest"]},
         {"org": "algorand", "name":"pyteal", "labels":["community interest"]},
         {"org": "algorand-devrel", "name":"community", "labels":[]}
     ]
