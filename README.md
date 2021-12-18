@@ -22,7 +22,7 @@ This tracker is used to gauge community interest in different features or improv
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
 | [Allow sorting of responses](https://github.com/algorand/indexer/issues/389) | 6 | 0 |
-| [Application Transaction Filters](https://github.com/algorand/indexer/issues/809) | 2 | 0 |
+| [Application Transaction Filters](https://github.com/algorand/indexer/issues/809) | 3 | 0 |
 
 ## pyteal
 | Title | :+1: | :-1: |
