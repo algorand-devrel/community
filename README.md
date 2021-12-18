@@ -11,17 +11,18 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Add ability to recover from Ledger BIP39 seed and get Algorand compatible wallet.](https://github.com/algorand/go-algorand/issues/2124) | 8 | 0 |
 | [Add goal support for multiple Ledger Nano accounts ](https://github.com/algorand/go-algorand/issues/1930) | 7 | 0 |
+| [Add ability to advance time when network is in devmode](https://github.com/algorand/go-algorand/issues/3192) | 2 | 0 |
 | [Goal remote node config](https://github.com/algorand/go-algorand/issues/2904) | 2 | 0 |
 | [Improve Error messages around unsupported protocol features](https://github.com/algorand/go-algorand/issues/2186) | 2 | 0 |
 | [Tealdbg - Allow edit of contract source](https://github.com/algorand/go-algorand/issues/3302) | 1 | 0 |
 | [Delete KMD wallet](https://github.com/algorand/go-algorand/issues/3249) | 1 | 0 |
-| [Add ability to advance time when network is in devmode](https://github.com/algorand/go-algorand/issues/3192) | 1 | 0 |
 | [Assert with reason code](https://github.com/algorand/go-algorand/issues/3013) | 1 | 0 |
 
 ## indexer
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
 | [Allow sorting of responses](https://github.com/algorand/indexer/issues/389) | 6 | 0 |
+| [Application Transaction Filters](https://github.com/algorand/indexer/issues/809) | 2 | 0 |
 
 ## pyteal
 | Title | :+1: | :-1: |
