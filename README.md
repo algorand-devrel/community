@@ -9,8 +9,8 @@ This tracker is used to gauge community interest in different features or improv
 ## go-algorand
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
+| [Add goal support for multiple Ledger Nano accounts ](https://github.com/algorand/go-algorand/issues/1930) | 9 | 0 |
 | [Add ability to recover from Ledger BIP39 seed and get Algorand compatible wallet.](https://github.com/algorand/go-algorand/issues/2124) | 8 | 0 |
-| [Add goal support for multiple Ledger Nano accounts ](https://github.com/algorand/go-algorand/issues/1930) | 8 | 0 |
 | [Goal remote node config](https://github.com/algorand/go-algorand/issues/2904) | 3 | 0 |
 | [Tealdbg - Allow edit of contract source](https://github.com/algorand/go-algorand/issues/3302) | 2 | 0 |
 | [Delete KMD wallet](https://github.com/algorand/go-algorand/issues/3249) | 2 | 0 |
