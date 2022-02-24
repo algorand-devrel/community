@@ -33,7 +33,7 @@ This tracker is used to gauge community interest in different features or improv
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
 | [SDKs - Provide an arbitrary byte sign/verify](https://github.com/algorand-devrel/community/issues/10) | 6 | 0 |
-| [PyTEAL - Complex Types](https://github.com/algorand-devrel/community/issues/7) | 5 | 0 |
+| [PyTEAL - Complex Types](https://github.com/algorand-devrel/community/issues/7) | 6 | 0 |
 | [TEAL - Produce Assembly Map During Compilation](https://github.com/algorand-devrel/community/issues/17) | 4 | 0 |
 | [Demo App - DAO](https://github.com/algorand-devrel/community/issues/16) | 4 | 0 |
 | [Demo App - Multisignature Collaboration Tool](https://github.com/algorand-devrel/community/issues/14) | 4 | 0 |
