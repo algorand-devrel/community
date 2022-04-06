@@ -9,8 +9,8 @@ This tracker is used to gauge community interest in different features or improv
 ## go-algorand
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
+| [Add ability to recover from Ledger BIP39 seed and get Algorand compatible wallet.](https://github.com/algorand/go-algorand/issues/2124) | 9 | 0 |
 | [Add goal support for multiple Ledger Nano accounts ](https://github.com/algorand/go-algorand/issues/1930) | 9 | 0 |
-| [Add ability to recover from Ledger BIP39 seed and get Algorand compatible wallet.](https://github.com/algorand/go-algorand/issues/2124) | 8 | 0 |
 | [Assert with reason code](https://github.com/algorand/go-algorand/issues/3013) | 4 | 0 |
 | [API endpoint for disassembling TEAL scripts](https://github.com/algorand/go-algorand/issues/1654) | 4 | 0 |
 | [Goal remote node config](https://github.com/algorand/go-algorand/issues/2904) | 3 | 0 |
@@ -22,7 +22,7 @@ This tracker is used to gauge community interest in different features or improv
 ## indexer
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
-| [Allow sorting of responses](https://github.com/algorand/indexer/issues/389) | 8 | 0 |
+| [Allow sorting of responses](https://github.com/algorand/indexer/issues/389) | 9 | 0 |
 | [Search by group-id to get all Transactions within Group](https://github.com/algorand/indexer/issues/135) | 4 | 0 |
 | [Application Transaction Filters](https://github.com/algorand/indexer/issues/809) | 3 | 0 |
 
@@ -40,6 +40,7 @@ This tracker is used to gauge community interest in different features or improv
 | [Demo App - Multisignature Collaboration Tool](https://github.com/algorand-devrel/community/issues/14) | 4 | 0 |
 | [PyTEAL - Application Routing Abstract Class](https://github.com/algorand-devrel/community/issues/8) | 3 | 0 |
 | [Docs - Examples in order of increasing difficulty](https://github.com/algorand-devrel/community/issues/5) | 3 | 0 |
+| [TEAL - Access block seed for VRF purposes](https://github.com/algorand-devrel/community/issues/27) | 2 | 0 |
 | [Learning Project Assignments List](https://github.com/algorand-devrel/community/issues/21) | 2 | 0 |
 | [SDKs - Provide Sandbox Account Utility Functions](https://github.com/algorand-devrel/community/issues/20) | 2 | 0 |
 | [Discord - Documentation Bot](https://github.com/algorand-devrel/community/issues/13) | 2 | 0 |
