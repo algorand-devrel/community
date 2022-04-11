@@ -35,9 +35,9 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [SDKs - Provide an arbitrary byte sign/verify](https://github.com/algorand-devrel/community/issues/10) | 6 | 0 |
 | [PyTEAL - Complex Types](https://github.com/algorand-devrel/community/issues/7) | 6 | 0 |
+| [Demo App - Multisignature Collaboration Tool](https://github.com/algorand-devrel/community/issues/14) | 5 | 0 |
 | [TEAL - Produce Assembly Map During Compilation](https://github.com/algorand-devrel/community/issues/17) | 4 | 0 |
 | [Demo App - DAO](https://github.com/algorand-devrel/community/issues/16) | 4 | 0 |
-| [Demo App - Multisignature Collaboration Tool](https://github.com/algorand-devrel/community/issues/14) | 4 | 0 |
 | [PyTEAL - Application Routing Abstract Class](https://github.com/algorand-devrel/community/issues/8) | 3 | 0 |
 | [Docs - Examples in order of increasing difficulty](https://github.com/algorand-devrel/community/issues/5) | 3 | 0 |
 | [TEAL - Access block seed for VRF purposes](https://github.com/algorand-devrel/community/issues/27) | 2 | 0 |
