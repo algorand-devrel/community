@@ -46,6 +46,7 @@ This tracker is used to gauge community interest in different features or improv
 | [Discord - Documentation Bot](https://github.com/algorand-devrel/community/issues/13) | 2 | 0 |
 | [SDKs - Provide a `min_balance` like function](https://github.com/algorand-devrel/community/issues/9) | 2 | 0 |
 | [Goal - Remote API Configuration Options](https://github.com/algorand-devrel/community/issues/2) | 2 | 0 |
+| [Docs - FAQ documents for developers. ](https://github.com/algorand-devrel/community/issues/28) | 1 | 0 |
 | [Demo App -  VRF Shuffle NFT Drop](https://github.com/algorand-devrel/community/issues/24) | 1 | 0 |
 | [Docs - Sample Runnable Programs](https://github.com/algorand-devrel/community/issues/6) | 1 | 0 |
 | [Sandbox - Multiple Concurrent Instances](https://github.com/algorand-devrel/community/issues/4) | 1 | 0 |
