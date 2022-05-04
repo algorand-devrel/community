@@ -23,7 +23,7 @@ This tracker is used to gauge community interest in different features or improv
 ## indexer
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
-| [Allow sorting of responses](https://github.com/algorand/indexer/issues/389) | 9 | 0 |
+| [Allow sorting of responses](https://github.com/algorand/indexer/issues/389) | 10 | 0 |
 | [Search by group-id to get all Transactions within Group](https://github.com/algorand/indexer/issues/135) | 4 | 0 |
 | [Application Transaction Filters](https://github.com/algorand/indexer/issues/809) | 3 | 0 |
 
@@ -38,9 +38,9 @@ This tracker is used to gauge community interest in different features or improv
 | [PyTEAL - Complex Types](https://github.com/algorand-devrel/community/issues/7) | 6 | 0 |
 | [Demo App - Multisignature Collaboration Tool](https://github.com/algorand-devrel/community/issues/14) | 5 | 0 |
 | [Demo App - DAO](https://github.com/algorand-devrel/community/issues/16) | 4 | 0 |
+| [Docs - FAQ documents for developers. ](https://github.com/algorand-devrel/community/issues/28) | 3 | 0 |
 | [PyTEAL - Application Routing Abstract Class](https://github.com/algorand-devrel/community/issues/8) | 3 | 0 |
 | [Docs - Examples in order of increasing difficulty](https://github.com/algorand-devrel/community/issues/5) | 3 | 0 |
-| [Docs - FAQ documents for developers. ](https://github.com/algorand-devrel/community/issues/28) | 2 | 0 |
 | [TEAL - Access block seed for VRF purposes](https://github.com/algorand-devrel/community/issues/27) | 2 | 0 |
 | [Learning Project Assignments List](https://github.com/algorand-devrel/community/issues/21) | 2 | 0 |
 | [SDKs - Provide Sandbox Account Utility Functions](https://github.com/algorand-devrel/community/issues/20) | 2 | 0 |
