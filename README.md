@@ -22,7 +22,7 @@ This tracker is used to gauge community interest in different features or improv
 ## indexer
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
-| [Allow sorting of responses](https://github.com/algorand/indexer/issues/389) | 10 | 0 |
+| [Allow sorting of responses](https://github.com/algorand/indexer/issues/389) | 11 | 0 |
 | [Search by group-id to get all Transactions within Group](https://github.com/algorand/indexer/issues/135) | 5 | 0 |
 | [Application Transaction Filters](https://github.com/algorand/indexer/issues/809) | 3 | 0 |
 
