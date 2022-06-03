@@ -29,6 +29,7 @@ This tracker is used to gauge community interest in different features or improv
 ## pyteal
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
+| [Expose a `debug` compile option](https://github.com/algorand/pyteal/issues/282) | 1 | 0 |
 
 ## community
 | Title | :+1: | :-1: |
