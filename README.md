@@ -18,6 +18,7 @@ This tracker is used to gauge community interest in different features or improv
 | [Tealdbg - Allow edit of contract source](https://github.com/algorand/go-algorand/issues/3302) | 2 | 0 |
 | [Delete KMD wallet](https://github.com/algorand/go-algorand/issues/3249) | 2 | 0 |
 | [Improve Error messages around unsupported protocol features](https://github.com/algorand/go-algorand/issues/2186) | 2 | 0 |
+| [Return 404 when a block is not found.](https://github.com/algorand/go-algorand/issues/3835) | 0 | 0 |
 
 ## indexer
 | Title | :+1: | :-1: |
