@@ -9,7 +9,7 @@ This tracker is used to gauge community interest in different features or improv
 ## go-algorand
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
-| [SPIKE Add ability to advance time when network is in devmode](https://github.com/algorand/go-algorand/issues/3192) | 18 | 0 |
+| [SPIKE Add ability to advance time when network is in devmode](https://github.com/algorand/go-algorand/issues/3192) | 19 | 0 |
 | [Add ability to recover from Ledger BIP39 seed and get Algorand compatible wallet.](https://github.com/algorand/go-algorand/issues/2124) | 9 | 0 |
 | [Add goal support for multiple Ledger Nano accounts ](https://github.com/algorand/go-algorand/issues/1930) | 9 | 0 |
 | [Assert with reason code](https://github.com/algorand/go-algorand/issues/3013) | 6 | 0 |
@@ -18,6 +18,7 @@ This tracker is used to gauge community interest in different features or improv
 | [Tealdbg - Allow edit of contract source](https://github.com/algorand/go-algorand/issues/3302) | 2 | 0 |
 | [Delete KMD wallet](https://github.com/algorand/go-algorand/issues/3249) | 2 | 0 |
 | [Improve Error messages around unsupported protocol features](https://github.com/algorand/go-algorand/issues/2186) | 2 | 0 |
+| [Improve DevMode with hybrid approach.](https://github.com/algorand/go-algorand/issues/2770) | 1 | 0 |
 
 ## indexer
 | Title | :+1: | :-1: |
