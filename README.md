@@ -19,6 +19,7 @@ This tracker is used to gauge community interest in different features or improv
 | [Delete KMD wallet](https://github.com/algorand/go-algorand/issues/3249) | 2 | 0 |
 | [Improve Error messages around unsupported protocol features](https://github.com/algorand/go-algorand/issues/2186) | 2 | 0 |
 | [Improve DevMode with hybrid approach.](https://github.com/algorand/go-algorand/issues/2770) | 1 | 0 |
+| [Expose additional resource utilization metrics on /metrics endpoint](https://github.com/algorand/go-algorand/issues/5097) | 0 | 0 |
 
 ## indexer
 | Title | :+1: | :-1: |
