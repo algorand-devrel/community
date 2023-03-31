@@ -52,3 +52,33 @@ This tracker is used to gauge community interest in different features or improv
 | [Demo App - Web3 Login](https://github.com/algorand-devrel/community/issues/23) | 0 | 0 |
 | [Demo App - Crowdfunding](https://github.com/algorand-devrel/community/issues/22) | 0 | 0 |
 | [Sandbox - Freeze/Restore to known state](https://github.com/algorand-devrel/community/issues/3) | 0 | 0 |
+
+## algokit-cli
+| Title | :+1: | :-1: |
+| ----- | -- | ---- |
+| [FEATURE IDEA DISCUSSION: AUDITED/STANDARDIZED SMART CONTRACTS](https://github.com/algorandfoundation/algokit-cli/issues/214) | 2 | 0 |
+| [Mention optional "Hyper-V" for Docker on Windows](https://github.com/algorandfoundation/algokit-cli/issues/232) | 0 | 0 |
+| [Consider adding "Discussions"](https://github.com/algorandfoundation/algokit-cli/issues/231) | 0 | 0 |
+| [Docker Images should be @ "algorand" or "algokit"](https://github.com/algorandfoundation/algokit-cli/issues/230) | 0 | 0 |
+| [Things i shouldve done before](https://github.com/algorandfoundation/algokit-cli/pull/229) | 0 | 0 |
+| [algokit doctor errors flagged after windows installation steps followed](https://github.com/algorandfoundation/algokit-cli/issues/228) | 0 | 0 |
+| [1.0 release](https://github.com/algorandfoundation/algokit-cli/issues/223) | 0 | 0 |
+| [Template CI/CD](https://github.com/algorandfoundation/algokit-cli/issues/222) | 0 | 0 |
+| [FEATURE IDEA DISCUSSION: Smart Contract Multi-language support](https://github.com/algorandfoundation/algokit-cli/issues/204) | 0 | 0 |
+| [AlgoKit TypeScript util library](https://github.com/algorandfoundation/algokit-cli/issues/197) | 0 | 0 |
+| [AlgoKit Pypi util library](https://github.com/algorandfoundation/algokit-cli/issues/196) | 0 | 0 |
+| [Beaker test coverage](https://github.com/algorandfoundation/algokit-cli/issues/195) | 0 | 0 |
+| [Update the algokit beaker template to use new beaker](https://github.com/algorandfoundation/algokit-cli/issues/190) | 0 | 0 |
+| [mypy crashing upon startup](https://github.com/algorandfoundation/algokit-cli/issues/186) | 0 | 0 |
+| [Respond and resolve to feedback of productionisation work and get it released](https://github.com/algorandfoundation/algokit-cli/issues/182) | 0 | 0 |
+| [Improve getting started experience](https://github.com/algorandfoundation/algokit-cli/issues/179) | 0 | 0 |
+| [algokit init doesn't use active python version with poetry + pyenv](https://github.com/algorandfoundation/algokit-cli/issues/165) | 0 | 0 |
+| [Architecture decision for smart contract deployment](https://github.com/algorandfoundation/algokit-cli/issues/150) | 0 | 0 |
+| [Beaker automated CI/CD](https://github.com/algorandfoundation/algokit-cli/issues/149) | 0 | 0 |
+| [AlgoKit Smart Contract Building Blocks library](https://github.com/algorandfoundation/algokit-cli/issues/109) | 0 | 0 |
+| [Capture template data when init'ing templates](https://github.com/algorandfoundation/algokit-cli/issues/92) | 0 | 0 |
+| [Automated update prompt](https://github.com/algorandfoundation/algokit-cli/issues/87) | 0 | 0 |
+| [Beaker productionisation review](https://github.com/algorandfoundation/algokit-cli/issues/84) | 0 | 0 |
+| [Set up Windows Chocolatey installation](https://github.com/algorandfoundation/algokit-cli/issues/79) | 0 | 0 |
+| [Use native binaries rather than docker](https://github.com/algorandfoundation/algokit-cli/issues/53) | 0 | 0 |
+| [Create community contribution standard across AlgoKit repos](https://github.com/algorandfoundation/algokit-cli/issues/11) | 0 | 0 |
