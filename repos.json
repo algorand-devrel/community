@@ -3,6 +3,7 @@
         {"org": "algorand", "name":"go-algorand", "labels":["community interest"]},
         {"org": "algorand", "name":"indexer", "labels":["community interest"]},
         {"org": "algorand", "name":"pyteal", "labels":["community interest"]},
-        {"org": "algorand-devrel", "name":"community", "labels":[]}
+        {"org": "algorand-devrel", "name":"community", "labels":[]},
+        {"org": "algorandfoundation", "name":"algokit-cli", "labels":[]}
     ]
 }
