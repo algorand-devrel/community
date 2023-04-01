@@ -57,6 +57,8 @@ This tracker is used to gauge community interest in different features or improv
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
 | [FEATURE IDEA DISCUSSION: AUDITED/STANDARDIZED SMART CONTRACTS](https://github.com/algorandfoundation/algokit-cli/issues/214) | 2 | 0 |
+| [Provide a Security Policy](https://github.com/algorandfoundation/algokit-cli/pull/234) | 0 | 0 |
+| [[CRITICAL] Provide a Security Policy](https://github.com/algorandfoundation/algokit-cli/issues/233) | 0 | 0 |
 | [Mention optional "Hyper-V" for Docker on Windows](https://github.com/algorandfoundation/algokit-cli/issues/232) | 0 | 0 |
 | [Consider adding "Discussions"](https://github.com/algorandfoundation/algokit-cli/issues/231) | 0 | 0 |
 | [Docker Images should be @ "algorand" or "algokit"](https://github.com/algorandfoundation/algokit-cli/issues/230) | 0 | 0 |
