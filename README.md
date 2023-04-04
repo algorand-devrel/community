@@ -13,6 +13,7 @@ This tracker is used to gauge community interest in different features or improv
 | [Add ability to recover from Ledger BIP39 seed and get Algorand compatible wallet.](https://github.com/algorand/go-algorand/issues/2124) | 9 | 0 |
 | [Add goal support for multiple Ledger Nano accounts ](https://github.com/algorand/go-algorand/issues/1930) | 9 | 0 |
 | [Assert with reason code](https://github.com/algorand/go-algorand/issues/3013) | 6 | 0 |
+| [Provide full asset information on /v2/accounts/{address}](https://github.com/algorand/go-algorand/issues/5250) | 5 | 0 |
 | [In goal terminology, be consistent in usage of "ID" instead of "index" ](https://github.com/algorand/go-algorand/issues/3671) | 3 | 0 |
 | [Tealdbg - Allow edit of contract source](https://github.com/algorand/go-algorand/issues/3302) | 2 | 0 |
 | [Delete KMD wallet](https://github.com/algorand/go-algorand/issues/3249) | 2 | 0 |
