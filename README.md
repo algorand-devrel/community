@@ -66,7 +66,6 @@ This tracker is used to gauge community interest in different features or improv
 | [Mention optional "Hyper-V" for Docker on Windows](https://github.com/algorandfoundation/algokit-cli/issues/232) | 0 | 0 |
 | [Consider adding "Discussions"](https://github.com/algorandfoundation/algokit-cli/issues/231) | 0 | 0 |
 | [Docker Images should be @ "algorand" or "algokit"](https://github.com/algorandfoundation/algokit-cli/issues/230) | 0 | 0 |
-| [Things i shouldve done before](https://github.com/algorandfoundation/algokit-cli/pull/229) | 0 | 0 |
 | [algokit doctor errors flagged after windows installation steps followed](https://github.com/algorandfoundation/algokit-cli/issues/228) | 0 | 0 |
 | [1.0 release](https://github.com/algorandfoundation/algokit-cli/issues/223) | 0 | 0 |
 | [Template CI/CD](https://github.com/algorandfoundation/algokit-cli/issues/222) | 0 | 0 |
