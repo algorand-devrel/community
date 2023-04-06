@@ -60,7 +60,6 @@ This tracker is used to gauge community interest in different features or improv
 | [Audited/standardised smart contracts](https://github.com/algorandfoundation/algokit-cli/issues/214) | 2 | 0 |
 | [Add Gitpod check for localnet explore](https://github.com/algorandfoundation/algokit-cli/pull/238) | 0 | 0 |
 | [Beaker Module Not Found Error](https://github.com/algorandfoundation/algokit-cli/issues/237) | 0 | 0 |
-| [Detect old docker compose when `docker compose` doesn't exist, but `docker-compose` does.](https://github.com/algorandfoundation/algokit-cli/issues/236) | 0 | 0 |
 | [Provide a Security Policy](https://github.com/algorandfoundation/algokit-cli/pull/234) | 0 | 0 |
 | [[CRITICAL] Provide a Security Policy](https://github.com/algorandfoundation/algokit-cli/issues/233) | 0 | 0 |
 | [Mention optional "Hyper-V" for Docker on Windows](https://github.com/algorandfoundation/algokit-cli/issues/232) | 0 | 0 |
