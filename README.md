@@ -14,6 +14,7 @@ This tracker is used to gauge community interest in different features or improv
 | [Add goal support for multiple Ledger Nano accounts ](https://github.com/algorand/go-algorand/issues/1930) | 9 | 0 |
 | [Provide full asset information on /v2/accounts/{address}](https://github.com/algorand/go-algorand/issues/5250) | 6 | 0 |
 | [Assert with reason code](https://github.com/algorand/go-algorand/issues/3013) | 6 | 0 |
+| [Add mutable data field on ASAs](https://github.com/algorand/go-algorand/issues/5264) | 3 | 0 |
 | [In goal terminology, be consistent in usage of "ID" instead of "index" ](https://github.com/algorand/go-algorand/issues/3671) | 3 | 0 |
 | [Tealdbg - Allow edit of contract source](https://github.com/algorand/go-algorand/issues/3302) | 2 | 0 |
 | [Delete KMD wallet](https://github.com/algorand/go-algorand/issues/3249) | 2 | 0 |
@@ -58,6 +59,8 @@ This tracker is used to gauge community interest in different features or improv
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
 | [Audited/standardised smart contracts](https://github.com/algorandfoundation/algokit-cli/issues/214) | 2 | 0 |
+| [mention the additional repositories](https://github.com/algorandfoundation/algokit-cli/pull/240) | 0 | 0 |
+| [fixup algokit install](https://github.com/algorandfoundation/algokit-cli/pull/239) | 0 | 0 |
 | [Add Gitpod check for localnet explore](https://github.com/algorandfoundation/algokit-cli/pull/238) | 0 | 0 |
 | [Beaker Module Not Found Error](https://github.com/algorandfoundation/algokit-cli/issues/237) | 0 | 0 |
 | [Provide a Security Policy](https://github.com/algorandfoundation/algokit-cli/pull/234) | 0 | 0 |
