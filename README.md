@@ -59,6 +59,7 @@ This tracker is used to gauge community interest in different features or improv
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
 | [Audited/standardised smart contracts](https://github.com/algorandfoundation/algokit-cli/issues/214) | 2 | 0 |
+| [Missing commands in algokit & smart contracts folder missing as well.](https://github.com/algorandfoundation/algokit-cli/issues/242) | 0 | 0 |
 | [Fix Copyright Year](https://github.com/algorandfoundation/algokit-cli/issues/241) | 0 | 0 |
 | [mention the additional repositories](https://github.com/algorandfoundation/algokit-cli/pull/240) | 0 | 0 |
 | [fixup algokit install](https://github.com/algorandfoundation/algokit-cli/pull/239) | 0 | 0 |
