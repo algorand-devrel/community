@@ -12,7 +12,7 @@ This tracker is used to gauge community interest in different features or improv
 | [SPIKE Add ability to advance time when network is in devmode](https://github.com/algorand/go-algorand/issues/3192) | 20 | 0 |
 | [Add ability to recover from Ledger BIP39 seed and get Algorand compatible wallet.](https://github.com/algorand/go-algorand/issues/2124) | 9 | 0 |
 | [Add goal support for multiple Ledger Nano accounts ](https://github.com/algorand/go-algorand/issues/1930) | 9 | 0 |
-| [Provide full asset information on /v2/accounts/{address}](https://github.com/algorand/go-algorand/issues/5250) | 7 | 0 |
+| [Provide full asset information on /v2/accounts/{address}](https://github.com/algorand/go-algorand/issues/5250) | 8 | 0 |
 | [Assert with reason code](https://github.com/algorand/go-algorand/issues/3013) | 6 | 0 |
 | [Add mutable data field on ASAs](https://github.com/algorand/go-algorand/issues/5264) | 4 | 0 |
 | [In goal terminology, be consistent in usage of "ID" instead of "index" ](https://github.com/algorand/go-algorand/issues/3671) | 3 | 0 |
@@ -59,6 +59,7 @@ This tracker is used to gauge community interest in different features or improv
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
 | [Audited/standardised smart contracts](https://github.com/algorandfoundation/algokit-cli/issues/214) | 2 | 0 |
+| [Algokit Verification Not Working](https://github.com/algorandfoundation/algokit-cli/issues/243) | 0 | 0 |
 | [Fix Copyright Year](https://github.com/algorandfoundation/algokit-cli/issues/241) | 0 | 0 |
 | [mention the additional repositories](https://github.com/algorandfoundation/algokit-cli/pull/240) | 0 | 0 |
 | [fixup algokit install](https://github.com/algorandfoundation/algokit-cli/pull/239) | 0 | 0 |
