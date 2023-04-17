@@ -59,6 +59,7 @@ This tracker is used to gauge community interest in different features or improv
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
 | [Audited/standardised smart contracts](https://github.com/algorandfoundation/algokit-cli/issues/214) | 2 | 0 |
+| [TypeScript automated testing support](https://github.com/algorandfoundation/algokit-cli/issues/244) | 0 | 0 |
 | [Algokit Verification Not Working](https://github.com/algorandfoundation/algokit-cli/issues/243) | 0 | 0 |
 | [Fix Copyright Year](https://github.com/algorandfoundation/algokit-cli/issues/241) | 0 | 0 |
 | [mention the additional repositories](https://github.com/algorandfoundation/algokit-cli/pull/240) | 0 | 0 |
@@ -71,7 +72,7 @@ This tracker is used to gauge community interest in different features or improv
 | [Consider adding "Discussions"](https://github.com/algorandfoundation/algokit-cli/issues/231) | 0 | 0 |
 | [Docker Images should be @ "algorand" or "algokit"](https://github.com/algorandfoundation/algokit-cli/issues/230) | 0 | 0 |
 | [algokit doctor errors flagged after windows installation steps followed](https://github.com/algorandfoundation/algokit-cli/issues/228) | 0 | 0 |
-| [1.0 release](https://github.com/algorandfoundation/algokit-cli/issues/223) | 0 | 0 |
+| [1.0 release (and post-release docs)](https://github.com/algorandfoundation/algokit-cli/issues/223) | 0 | 0 |
 | [Template CI/CD](https://github.com/algorandfoundation/algokit-cli/issues/222) | 0 | 0 |
 | [FEATURE IDEA DISCUSSION: Smart Contract Multi-language support](https://github.com/algorandfoundation/algokit-cli/issues/204) | 0 | 0 |
 | [AlgoKit TypeScript util library](https://github.com/algorandfoundation/algokit-cli/issues/197) | 0 | 0 |
