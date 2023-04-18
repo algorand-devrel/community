@@ -62,7 +62,6 @@ This tracker is used to gauge community interest in different features or improv
 | [TypeScript automated testing support](https://github.com/algorandfoundation/algokit-cli/issues/244) | 0 | 0 |
 | [Algokit Verification Not Working](https://github.com/algorandfoundation/algokit-cli/issues/243) | 0 | 0 |
 | [Fix Copyright Year](https://github.com/algorandfoundation/algokit-cli/issues/241) | 0 | 0 |
-| [mention the additional repositories](https://github.com/algorandfoundation/algokit-cli/pull/240) | 0 | 0 |
 | [fixup algokit install](https://github.com/algorandfoundation/algokit-cli/pull/239) | 0 | 0 |
 | [Add Gitpod check for localnet explore](https://github.com/algorandfoundation/algokit-cli/pull/238) | 0 | 0 |
 | [Beaker Module Not Found Error](https://github.com/algorandfoundation/algokit-cli/issues/237) | 0 | 0 |
