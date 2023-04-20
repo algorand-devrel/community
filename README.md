@@ -9,7 +9,6 @@ This tracker is used to gauge community interest in different features or improv
 ## go-algorand
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
-| [SPIKE Add ability to advance time when network is in devmode](https://github.com/algorand/go-algorand/issues/3192) | 20 | 0 |
 | [Add ability to recover from Ledger BIP39 seed and get Algorand compatible wallet.](https://github.com/algorand/go-algorand/issues/2124) | 9 | 0 |
 | [Add goal support for multiple Ledger Nano accounts ](https://github.com/algorand/go-algorand/issues/1930) | 9 | 0 |
 | [Provide full asset information on /v2/accounts/{address}](https://github.com/algorand/go-algorand/issues/5250) | 8 | 0 |
@@ -58,24 +57,18 @@ This tracker is used to gauge community interest in different features or improv
 ## algokit-cli
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
-| [Audited/standardised smart contracts](https://github.com/algorandfoundation/algokit-cli/issues/214) | 2 | 0 |
-| [build: update to copier 7.1.0](https://github.com/algorandfoundation/algokit-cli/pull/247) | 0 | 0 |
 | [Change the README to be more Code/Project Oriented](https://github.com/algorandfoundation/algokit-cli/issues/246) | 0 | 0 |
 | [TypeScript automated testing support](https://github.com/algorandfoundation/algokit-cli/issues/244) | 0 | 0 |
-| [Algokit Verification Not Working](https://github.com/algorandfoundation/algokit-cli/issues/243) | 0 | 0 |
 | [Fix Copyright Year](https://github.com/algorandfoundation/algokit-cli/issues/241) | 0 | 0 |
 | [fixup algokit install](https://github.com/algorandfoundation/algokit-cli/pull/239) | 0 | 0 |
 | [Add Gitpod check for localnet explore](https://github.com/algorandfoundation/algokit-cli/pull/238) | 0 | 0 |
-| [Beaker Module Not Found Error](https://github.com/algorandfoundation/algokit-cli/issues/237) | 0 | 0 |
 | [Provide a Security Policy](https://github.com/algorandfoundation/algokit-cli/pull/234) | 0 | 0 |
 | [[CRITICAL] Provide a Security Policy](https://github.com/algorandfoundation/algokit-cli/issues/233) | 0 | 0 |
 | [Mention optional "Hyper-V" for Docker on Windows](https://github.com/algorandfoundation/algokit-cli/issues/232) | 0 | 0 |
-| [Consider adding "Discussions"](https://github.com/algorandfoundation/algokit-cli/issues/231) | 0 | 0 |
 | [Docker Images should be @ "algorand" or "algokit"](https://github.com/algorandfoundation/algokit-cli/issues/230) | 0 | 0 |
 | [algokit doctor errors flagged after windows installation steps followed](https://github.com/algorandfoundation/algokit-cli/issues/228) | 0 | 0 |
 | [1.0 release (and post-release docs)](https://github.com/algorandfoundation/algokit-cli/issues/223) | 0 | 0 |
 | [Template CI/CD](https://github.com/algorandfoundation/algokit-cli/issues/222) | 0 | 0 |
-| [FEATURE IDEA DISCUSSION: Smart Contract Multi-language support](https://github.com/algorandfoundation/algokit-cli/issues/204) | 0 | 0 |
 | [AlgoKit TypeScript util library](https://github.com/algorandfoundation/algokit-cli/issues/197) | 0 | 0 |
 | [AlgoKit Pypi util library](https://github.com/algorandfoundation/algokit-cli/issues/196) | 0 | 0 |
 | [Beaker test coverage](https://github.com/algorandfoundation/algokit-cli/issues/195) | 0 | 0 |
@@ -91,5 +84,4 @@ This tracker is used to gauge community interest in different features or improv
 | [Automated update prompt](https://github.com/algorandfoundation/algokit-cli/issues/87) | 0 | 0 |
 | [Beaker productionisation review](https://github.com/algorandfoundation/algokit-cli/issues/84) | 0 | 0 |
 | [Set up Windows Chocolatey installation](https://github.com/algorandfoundation/algokit-cli/issues/79) | 0 | 0 |
-| [Use native binaries rather than docker](https://github.com/algorandfoundation/algokit-cli/issues/53) | 0 | 0 |
 | [Create community contribution standard across AlgoKit repos](https://github.com/algorandfoundation/algokit-cli/issues/11) | 0 | 0 |
