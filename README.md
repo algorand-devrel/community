@@ -66,13 +66,5 @@ This tracker is used to gauge community interest in different features or improv
 | [Docker Images should be @ "algorand" or "algokit"](https://github.com/algorandfoundation/algokit-cli/issues/230) | 0 | 0 |
 | [algokit doctor errors flagged after windows installation steps followed](https://github.com/algorandfoundation/algokit-cli/issues/228) | 0 | 0 |
 | [1.0 release (and post-release docs)](https://github.com/algorandfoundation/algokit-cli/issues/223) | 0 | 0 |
-| [Template CI/CD](https://github.com/algorandfoundation/algokit-cli/issues/222) | 0 | 0 |
-| [AlgoKit TypeScript util library](https://github.com/algorandfoundation/algokit-cli/issues/197) | 0 | 0 |
-| [mypy crashing upon startup](https://github.com/algorandfoundation/algokit-cli/issues/186) | 0 | 0 |
-| [algokit init doesn't use active python version with poetry + pyenv](https://github.com/algorandfoundation/algokit-cli/issues/165) | 0 | 0 |
-| [Beaker automated CI/CD](https://github.com/algorandfoundation/algokit-cli/issues/149) | 0 | 0 |
-| [AlgoKit Smart Contract Building Blocks library](https://github.com/algorandfoundation/algokit-cli/issues/109) | 0 | 0 |
 | [Capture template data when init'ing templates](https://github.com/algorandfoundation/algokit-cli/issues/92) | 0 | 0 |
-| [Beaker productionisation review](https://github.com/algorandfoundation/algokit-cli/issues/84) | 0 | 0 |
-| [Set up Windows Chocolatey installation](https://github.com/algorandfoundation/algokit-cli/issues/79) | 0 | 0 |
 | [Create community contribution standard across AlgoKit repos](https://github.com/algorandfoundation/algokit-cli/issues/11) | 0 | 0 |
