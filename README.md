@@ -57,11 +57,9 @@ This tracker is used to gauge community interest in different features or improv
 ## algokit-cli
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
-| [Change the README to be more Code/Project Oriented](https://github.com/algorandfoundation/algokit-cli/issues/246) | 0 | 0 |
+| [mention Hyper-V Docker backend alternative](https://github.com/algorandfoundation/algokit-cli/pull/252) | 0 | 0 |
 | [TypeScript automated testing support](https://github.com/algorandfoundation/algokit-cli/issues/244) | 0 | 0 |
-| [Fix Copyright Year](https://github.com/algorandfoundation/algokit-cli/issues/241) | 0 | 0 |
 | [fixup algokit install](https://github.com/algorandfoundation/algokit-cli/pull/239) | 0 | 0 |
-| [Add Gitpod check for localnet explore](https://github.com/algorandfoundation/algokit-cli/pull/238) | 0 | 0 |
 | [Provide a Security Policy](https://github.com/algorandfoundation/algokit-cli/pull/234) | 0 | 0 |
 | [[CRITICAL] Provide a Security Policy](https://github.com/algorandfoundation/algokit-cli/issues/233) | 0 | 0 |
 | [Mention optional "Hyper-V" for Docker on Windows](https://github.com/algorandfoundation/algokit-cli/issues/232) | 0 | 0 |
@@ -70,18 +68,11 @@ This tracker is used to gauge community interest in different features or improv
 | [1.0 release (and post-release docs)](https://github.com/algorandfoundation/algokit-cli/issues/223) | 0 | 0 |
 | [Template CI/CD](https://github.com/algorandfoundation/algokit-cli/issues/222) | 0 | 0 |
 | [AlgoKit TypeScript util library](https://github.com/algorandfoundation/algokit-cli/issues/197) | 0 | 0 |
-| [AlgoKit Pypi util library](https://github.com/algorandfoundation/algokit-cli/issues/196) | 0 | 0 |
-| [Beaker test coverage](https://github.com/algorandfoundation/algokit-cli/issues/195) | 0 | 0 |
-| [Update the algokit beaker template to use new beaker](https://github.com/algorandfoundation/algokit-cli/issues/190) | 0 | 0 |
 | [mypy crashing upon startup](https://github.com/algorandfoundation/algokit-cli/issues/186) | 0 | 0 |
-| [Respond and resolve to feedback of productionisation work and get it released](https://github.com/algorandfoundation/algokit-cli/issues/182) | 0 | 0 |
-| [Improve getting started experience](https://github.com/algorandfoundation/algokit-cli/issues/179) | 0 | 0 |
 | [algokit init doesn't use active python version with poetry + pyenv](https://github.com/algorandfoundation/algokit-cli/issues/165) | 0 | 0 |
-| [Architecture decision for smart contract deployment](https://github.com/algorandfoundation/algokit-cli/issues/150) | 0 | 0 |
 | [Beaker automated CI/CD](https://github.com/algorandfoundation/algokit-cli/issues/149) | 0 | 0 |
 | [AlgoKit Smart Contract Building Blocks library](https://github.com/algorandfoundation/algokit-cli/issues/109) | 0 | 0 |
 | [Capture template data when init'ing templates](https://github.com/algorandfoundation/algokit-cli/issues/92) | 0 | 0 |
-| [Automated update prompt](https://github.com/algorandfoundation/algokit-cli/issues/87) | 0 | 0 |
 | [Beaker productionisation review](https://github.com/algorandfoundation/algokit-cli/issues/84) | 0 | 0 |
 | [Set up Windows Chocolatey installation](https://github.com/algorandfoundation/algokit-cli/issues/79) | 0 | 0 |
 | [Create community contribution standard across AlgoKit repos](https://github.com/algorandfoundation/algokit-cli/issues/11) | 0 | 0 |
