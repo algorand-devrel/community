@@ -57,6 +57,7 @@ This tracker is used to gauge community interest in different features or improv
 ## algokit-cli
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
+| [remove redundant explanations](https://github.com/algorandfoundation/algokit-cli/pull/254) | 0 | 0 |
 | [mention Hyper-V Docker backend alternative](https://github.com/algorandfoundation/algokit-cli/pull/252) | 0 | 0 |
 | [TypeScript automated testing support](https://github.com/algorandfoundation/algokit-cli/issues/244) | 0 | 0 |
 | [fixup algokit install](https://github.com/algorandfoundation/algokit-cli/pull/239) | 0 | 0 |
