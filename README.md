@@ -57,13 +57,11 @@ This tracker is used to gauge community interest in different features or improv
 ## algokit-cli
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
-| [remove redundant explanations](https://github.com/algorandfoundation/algokit-cli/pull/254) | 0 | 0 |
-| [mention Hyper-V Docker backend alternative](https://github.com/algorandfoundation/algokit-cli/pull/252) | 0 | 0 |
+| [docs: Added output stability article content](https://github.com/algorandfoundation/algokit-cli/pull/255) | 0 | 0 |
 | [TypeScript automated testing support](https://github.com/algorandfoundation/algokit-cli/issues/244) | 0 | 0 |
 | [fixup algokit install](https://github.com/algorandfoundation/algokit-cli/pull/239) | 0 | 0 |
 | [Provide a Security Policy](https://github.com/algorandfoundation/algokit-cli/pull/234) | 0 | 0 |
 | [[CRITICAL] Provide a Security Policy](https://github.com/algorandfoundation/algokit-cli/issues/233) | 0 | 0 |
-| [Mention optional "Hyper-V" for Docker on Windows](https://github.com/algorandfoundation/algokit-cli/issues/232) | 0 | 0 |
 | [Docker Images should be @ "algorand" or "algokit"](https://github.com/algorandfoundation/algokit-cli/issues/230) | 0 | 0 |
 | [algokit doctor errors flagged after windows installation steps followed](https://github.com/algorandfoundation/algokit-cli/issues/228) | 0 | 0 |
 | [1.0 release (and post-release docs)](https://github.com/algorandfoundation/algokit-cli/issues/223) | 0 | 0 |
