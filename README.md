@@ -67,5 +67,4 @@ This tracker is used to gauge community interest in different features or improv
 | [Docker Images should be @ "algorand" or "algokit"](https://github.com/algorandfoundation/algokit-cli/issues/230) | 0 | 0 |
 | [algokit doctor errors flagged after windows installation steps followed](https://github.com/algorandfoundation/algokit-cli/issues/228) | 0 | 0 |
 | [1.0 release (and post-release docs)](https://github.com/algorandfoundation/algokit-cli/issues/223) | 0 | 0 |
-| [Capture template data when init'ing templates](https://github.com/algorandfoundation/algokit-cli/issues/92) | 0 | 0 |
 | [Create community contribution standard across AlgoKit repos](https://github.com/algorandfoundation/algokit-cli/issues/11) | 0 | 0 |
