@@ -59,10 +59,8 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [CLI init - TypeScript deployment CI/CD GitHub action template](https://github.com/algorandfoundation/algokit-cli/issues/258) | 0 | 0 |
 | [CLI init - Python deployment CI/CD GitHub action template](https://github.com/algorandfoundation/algokit-cli/issues/257) | 0 | 0 |
-| [fix: workaround ValueError raised when using --defaults flag with copier 7.1](https://github.com/algorandfoundation/algokit-cli/pull/256) | 0 | 0 |
 | [TypeScript automated testing support](https://github.com/algorandfoundation/algokit-cli/issues/244) | 0 | 0 |
 | [fixup algokit install](https://github.com/algorandfoundation/algokit-cli/pull/239) | 0 | 0 |
-| [Provide a Security Policy](https://github.com/algorandfoundation/algokit-cli/pull/234) | 0 | 0 |
 | [[CRITICAL] Provide a Security Policy](https://github.com/algorandfoundation/algokit-cli/issues/233) | 0 | 0 |
 | [Docker Images should be @ "algorand" or "algokit"](https://github.com/algorandfoundation/algokit-cli/issues/230) | 0 | 0 |
 | [algokit doctor errors flagged after windows installation steps followed](https://github.com/algorandfoundation/algokit-cli/issues/228) | 0 | 0 |
