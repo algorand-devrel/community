@@ -57,6 +57,7 @@ This tracker is used to gauge community interest in different features or improv
 ## algokit-cli
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
+| [[OT] For John Alan Woods](https://github.com/algorandfoundation/algokit-cli/issues/263) | 0 | 0 |
 | [[CRITICAL] Provide a Security Policy](https://github.com/algorandfoundation/algokit-cli/issues/233) | 0 | 0 |
 | [Docker Images should be @ "algorand" or "algokit"](https://github.com/algorandfoundation/algokit-cli/issues/230) | 0 | 0 |
 | [algokit doctor errors flagged after windows installation steps followed](https://github.com/algorandfoundation/algokit-cli/issues/228) | 0 | 0 |
