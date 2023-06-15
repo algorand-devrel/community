@@ -57,7 +57,6 @@ This tracker is used to gauge community interest in different features or improv
 ## algokit-cli
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
-| [algokit-generate (Py&TS): Generators for TS output fail on default args with constant "source"](https://github.com/algorandfoundation/algokit-cli/issues/285) | 0 | 0 |
 | [i am having path issue ](https://github.com/algorandfoundation/algokit-cli/issues/272) | 0 | 0 |
 | [Algokit with Podman](https://github.com/algorandfoundation/algokit-cli/issues/271) | 0 | 0 |
 | [[OT] For John Alan Woods](https://github.com/algorandfoundation/algokit-cli/issues/263) | 0 | 0 |
