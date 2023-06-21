@@ -57,7 +57,6 @@ This tracker is used to gauge community interest in different features or improv
 ## algokit-cli
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
-| [docs: adding readme assets](https://github.com/algorandfoundation/algokit-cli/pull/289) | 0 | 0 |
 | [PyInstaller](https://github.com/algorandfoundation/algokit-cli/pull/288) | 0 | 0 |
 | [Update docker version command](https://github.com/algorandfoundation/algokit-cli/pull/287) | 0 | 0 |
 | [i am having path issue ](https://github.com/algorandfoundation/algokit-cli/issues/272) | 0 | 0 |
