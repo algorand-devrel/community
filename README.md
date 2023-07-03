@@ -63,8 +63,6 @@ This tracker is used to gauge community interest in different features or improv
 | [Update docker version command](https://github.com/algorandfoundation/algokit-cli/pull/287) | 0 | 0 |
 | [i am having path issue ](https://github.com/algorandfoundation/algokit-cli/issues/272) | 0 | 0 |
 | [Algokit with Podman](https://github.com/algorandfoundation/algokit-cli/issues/271) | 0 | 0 |
-| [[OT] For John Alan Woods](https://github.com/algorandfoundation/algokit-cli/issues/263) | 0 | 0 |
 | [[CRITICAL] Provide a Security Policy](https://github.com/algorandfoundation/algokit-cli/issues/233) | 0 | 0 |
 | [Docker Images should be @ "algorand" or "algokit"](https://github.com/algorandfoundation/algokit-cli/issues/230) | 0 | 0 |
 | [algokit doctor errors flagged after windows installation steps followed](https://github.com/algorandfoundation/algokit-cli/issues/228) | 0 | 0 |
-| [Create community contribution standard across AlgoKit repos](https://github.com/algorandfoundation/algokit-cli/issues/11) | 0 | 0 |
