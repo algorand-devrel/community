@@ -57,6 +57,8 @@ This tracker is used to gauge community interest in different features or improv
 ## algokit-cli
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
+| [Type error in generated client](https://github.com/algorandfoundation/algokit-cli/issues/298) | 0 | 0 |
+| [fix: hotfixing a bug that is caused by pydantic >2.x.x being installed](https://github.com/algorandfoundation/algokit-cli/pull/297) | 0 | 0 |
 | [Fixed Typo](https://github.com/algorandfoundation/algokit-cli/pull/296) | 0 | 0 |
 | [feat: deploy command](https://github.com/algorandfoundation/algokit-cli/pull/295) | 0 | 0 |
 | [PyInstaller](https://github.com/algorandfoundation/algokit-cli/pull/288) | 0 | 0 |
