@@ -57,6 +57,7 @@ This tracker is used to gauge community interest in different features or improv
 ## algokit-cli
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
+| [refactor: updating list of official templates](https://github.com/algorandfoundation/algokit-cli/pull/302) | 0 | 0 |
 | [Algokit web - please provide installation instructions](https://github.com/algorandfoundation/algokit-cli/issues/301) | 0 | 0 |
 | [docs: adding algokit template documentation](https://github.com/algorandfoundation/algokit-cli/pull/300) | 0 | 0 |
 | [Fixed Typo](https://github.com/algorandfoundation/algokit-cli/pull/296) | 0 | 0 |
