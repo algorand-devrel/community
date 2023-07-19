@@ -57,6 +57,7 @@ This tracker is used to gauge community interest in different features or improv
 ## algokit-cli
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
+| [feat: Adding volume mount for goal commands](https://github.com/algorandfoundation/algokit-cli/pull/304) | 0 | 0 |
 | [Algokit web - please provide installation instructions](https://github.com/algorandfoundation/algokit-cli/issues/301) | 0 | 0 |
 | [Fixed Typo](https://github.com/algorandfoundation/algokit-cli/pull/296) | 0 | 0 |
 | [PyInstaller](https://github.com/algorandfoundation/algokit-cli/pull/288) | 0 | 0 |
