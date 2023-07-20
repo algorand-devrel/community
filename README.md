@@ -62,8 +62,6 @@ This tracker is used to gauge community interest in different features or improv
 | [Fixed Typo](https://github.com/algorandfoundation/algokit-cli/pull/296) | 0 | 0 |
 | [PyInstaller](https://github.com/algorandfoundation/algokit-cli/pull/288) | 0 | 0 |
 | [Update docker version command](https://github.com/algorandfoundation/algokit-cli/pull/287) | 0 | 0 |
-| [i am having path issue ](https://github.com/algorandfoundation/algokit-cli/issues/272) | 0 | 0 |
-| [Algokit with Podman](https://github.com/algorandfoundation/algokit-cli/issues/271) | 0 | 0 |
 | [[CRITICAL] Provide a Security Policy](https://github.com/algorandfoundation/algokit-cli/issues/233) | 0 | 0 |
 | [Migrate to official algorand docker images for algod and indexer once available](https://github.com/algorandfoundation/algokit-cli/issues/230) | 0 | 0 |
 | [algokit doctor errors flagged after windows installation steps followed](https://github.com/algorandfoundation/algokit-cli/issues/228) | 0 | 0 |
