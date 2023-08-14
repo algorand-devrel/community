@@ -58,7 +58,6 @@ This tracker is used to gauge community interest in different features or improv
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
 | [feat: localnet warning when image is out date](https://github.com/algorandfoundation/algokit-cli/pull/308) | 0 | 0 |
-| [feat: advanced algokit generate command](https://github.com/algorandfoundation/algokit-cli/pull/306) | 0 | 0 |
 | [feat: Adding volume mount for goal commands](https://github.com/algorandfoundation/algokit-cli/pull/304) | 0 | 0 |
 | [Algokit web - please provide installation instructions](https://github.com/algorandfoundation/algokit-cli/issues/301) | 0 | 0 |
 | [Fixed Typo](https://github.com/algorandfoundation/algokit-cli/pull/296) | 0 | 0 |
