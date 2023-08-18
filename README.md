@@ -58,7 +58,7 @@ This tracker is used to gauge community interest in different features or improv
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
 | [fix: localnet displays a warning when image is out of date](https://github.com/algorandfoundation/algokit-cli/pull/308) | 0 | 0 |
-| [feat: Adding volume mount for goal commands](https://github.com/algorandfoundation/algokit-cli/pull/304) | 0 | 0 |
+| [fix: adding fixes to allow working with local filesystem files when interacting with algokit goal commands](https://github.com/algorandfoundation/algokit-cli/pull/304) | 0 | 0 |
 | [Algokit web - please provide installation instructions](https://github.com/algorandfoundation/algokit-cli/issues/301) | 0 | 0 |
 | [Fixed Typo](https://github.com/algorandfoundation/algokit-cli/pull/296) | 0 | 0 |
 | [PyInstaller](https://github.com/algorandfoundation/algokit-cli/pull/288) | 0 | 0 |
