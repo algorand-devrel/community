@@ -57,8 +57,8 @@ This tracker is used to gauge community interest in different features or improv
 ## algokit-cli
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
+| [[DRAFT] algokit account implementation](https://github.com/algorandfoundation/algokit-cli/pull/309) | 0 | 0 |
 | [Algokit web - please provide installation instructions](https://github.com/algorandfoundation/algokit-cli/issues/301) | 0 | 0 |
-| [Fixed Typo](https://github.com/algorandfoundation/algokit-cli/pull/296) | 0 | 0 |
 | [PyInstaller](https://github.com/algorandfoundation/algokit-cli/pull/288) | 0 | 0 |
 | [Update docker version command](https://github.com/algorandfoundation/algokit-cli/pull/287) | 0 | 0 |
 | [[CRITICAL] Provide a Security Policy](https://github.com/algorandfoundation/algokit-cli/issues/233) | 0 | 0 |
