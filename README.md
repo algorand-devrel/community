@@ -57,7 +57,7 @@ This tracker is used to gauge community interest in different features or improv
 ## algokit-cli
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
-| [[DRAFT] algokit `dispenser` implementation](https://github.com/algorandfoundation/algokit-cli/pull/309) | 0 | 0 |
+| [algokit `dispenser` implementation](https://github.com/algorandfoundation/algokit-cli/pull/309) | 0 | 0 |
 | [Algokit web - please provide installation instructions](https://github.com/algorandfoundation/algokit-cli/issues/301) | 0 | 0 |
 | [PyInstaller](https://github.com/algorandfoundation/algokit-cli/pull/288) | 0 | 0 |
 | [Update docker version command](https://github.com/algorandfoundation/algokit-cli/pull/287) | 0 | 0 |
