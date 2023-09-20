@@ -57,7 +57,6 @@ This tracker is used to gauge community interest in different features or improv
 ## algokit-cli
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
-| [refactor: improved error handling, snapshot tests for dispenser command](https://github.com/algorandfoundation/algokit-cli/pull/311) | 0 | 0 |
 | [algokit `dispenser` implementation](https://github.com/algorandfoundation/algokit-cli/pull/309) | 0 | 0 |
 | [Algokit web - please provide installation instructions](https://github.com/algorandfoundation/algokit-cli/issues/301) | 0 | 0 |
 | [PyInstaller](https://github.com/algorandfoundation/algokit-cli/pull/288) | 0 | 0 |
