@@ -57,6 +57,7 @@ This tracker is used to gauge community interest in different features or improv
 ## algokit-cli
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
+| [README.md refers to non-existant algokit command ](https://github.com/algorandfoundation/algokit-cli/issues/317) | 0 | 0 |
 | [Add blessed TEALScript template](https://github.com/algorandfoundation/algokit-cli/pull/316) | 0 | 0 |
 | [feat: algokit task - transfer algo|asa](https://github.com/algorandfoundation/algokit-cli/pull/315) | 0 | 0 |
 | [feat: algokit `dispenser`](https://github.com/algorandfoundation/algokit-cli/pull/309) | 0 | 0 |
