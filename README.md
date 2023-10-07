@@ -59,7 +59,6 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [algokit localnet start - ledger does not have entry 1](https://github.com/algorandfoundation/algokit-cli/issues/320) | 0 | 0 |
 | [README.md refers to non-existant algokit command ](https://github.com/algorandfoundation/algokit-cli/issues/317) | 0 | 0 |
-| [feat: algokit task - transfer algo|asa](https://github.com/algorandfoundation/algokit-cli/pull/315) | 0 | 0 |
 | [Algokit web - please provide installation instructions](https://github.com/algorandfoundation/algokit-cli/issues/301) | 0 | 0 |
 | [PyInstaller](https://github.com/algorandfoundation/algokit-cli/pull/288) | 0 | 0 |
 | [Update docker version command](https://github.com/algorandfoundation/algokit-cli/pull/287) | 0 | 0 |
