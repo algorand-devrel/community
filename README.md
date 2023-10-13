@@ -57,6 +57,8 @@ This tracker is used to gauge community interest in different features or improv
 ## algokit-cli
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
+| [feat: nfd domains lookups](https://github.com/algorandfoundation/algokit-cli/pull/328) | 0 | 0 |
+| [feat: ipfs upload](https://github.com/algorandfoundation/algokit-cli/pull/327) | 0 | 0 |
 | [algokit localnet start - ledger does not have entry 1](https://github.com/algorandfoundation/algokit-cli/issues/320) | 0 | 0 |
 | [README.md refers to non-existant algokit command ](https://github.com/algorandfoundation/algokit-cli/issues/317) | 0 | 0 |
 | [Algokit web - please provide installation instructions](https://github.com/algorandfoundation/algokit-cli/issues/301) | 0 | 0 |
