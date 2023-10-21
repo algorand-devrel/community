@@ -57,8 +57,6 @@ This tracker is used to gauge community interest in different features or improv
 ## algokit-cli
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
-| [fix: docker compose ps parsing for version >= 2.21](https://github.com/algorandfoundation/algokit-cli/pull/336) | 0 | 0 |
-| [docker compose 2.21.0 introduces breaking change to `ps` JSON output](https://github.com/algorandfoundation/algokit-cli/issues/335) | 0 | 0 |
 | [feat: algokit tasks - 1.6.0 release ](https://github.com/algorandfoundation/algokit-cli/pull/334) | 0 | 0 |
 | [algokit localnet start - ledger does not have entry 1](https://github.com/algorandfoundation/algokit-cli/issues/320) | 0 | 0 |
 | [README.md refers to non-existant algokit command ](https://github.com/algorandfoundation/algokit-cli/issues/317) | 0 | 0 |
