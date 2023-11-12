@@ -57,6 +57,7 @@ This tracker is used to gauge community interest in different features or improv
 ## algokit-cli
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
+| [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 0 | 0 |
 | [algokit localnet start - ledger does not have entry 1](https://github.com/algorandfoundation/algokit-cli/issues/320) | 0 | 0 |
 | [Algokit web - please provide installation instructions](https://github.com/algorandfoundation/algokit-cli/issues/301) | 0 | 0 |
 | [PyInstaller](https://github.com/algorandfoundation/algokit-cli/pull/288) | 0 | 0 |
