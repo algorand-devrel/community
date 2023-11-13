@@ -58,8 +58,8 @@ This tracker is used to gauge community interest in different features or improv
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
+| [Issues beaker with importation](https://github.com/algorandfoundation/algokit-cli/issues/350) | 0 | 0 |
 | [algokit localnet start - ledger does not have entry 1](https://github.com/algorandfoundation/algokit-cli/issues/320) | 0 | 0 |
-| [Algokit web - please provide installation instructions](https://github.com/algorandfoundation/algokit-cli/issues/301) | 0 | 0 |
 | [PyInstaller](https://github.com/algorandfoundation/algokit-cli/pull/288) | 0 | 0 |
 | [Update docker version command](https://github.com/algorandfoundation/algokit-cli/pull/287) | 0 | 0 |
 | [[CRITICAL] Provide a Security Policy](https://github.com/algorandfoundation/algokit-cli/issues/233) | 0 | 0 |
