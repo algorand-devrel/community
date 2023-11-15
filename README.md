@@ -61,9 +61,7 @@ This tracker is used to gauge community interest in different features or improv
 | [algokit goal - automatically run the localnet docker container it it's not already running](https://github.com/algorandfoundation/algokit-cli/issues/357) | 0 | 0 |
 | [Update Python VSCode settings](https://github.com/algorandfoundation/algokit-cli/issues/356) | 0 | 0 |
 | [Use official indexer image for localnet ](https://github.com/algorandfoundation/algokit-cli/issues/355) | 0 | 0 |
-| [chore: Remove audit ignores, as they've all been fixed](https://github.com/algorandfoundation/algokit-cli/pull/354) | 0 | 0 |
 | [feat: migrating localnet to latest indexer v3.x images](https://github.com/algorandfoundation/algokit-cli/pull/351) | 0 | 0 |
-| [Issues beaker with importation](https://github.com/algorandfoundation/algokit-cli/issues/350) | 0 | 0 |
 | [algokit localnet start - ledger does not have entry 1](https://github.com/algorandfoundation/algokit-cli/issues/320) | 0 | 0 |
 | [PyInstaller](https://github.com/algorandfoundation/algokit-cli/pull/288) | 0 | 0 |
 | [Update docker version command](https://github.com/algorandfoundation/algokit-cli/pull/287) | 0 | 0 |
