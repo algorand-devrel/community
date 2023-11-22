@@ -58,7 +58,7 @@ This tracker is used to gauge community interest in different features or improv
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
-| [refactor: Refactor/ruff improvements](https://github.com/algorandfoundation/algokit-cli/pull/359) | 0 | 0 |
+| [chore: ruff improvements](https://github.com/algorandfoundation/algokit-cli/pull/359) | 0 | 0 |
 | [Update the the IPFS upload task to use the new web3.storage api](https://github.com/algorandfoundation/algokit-cli/issues/358) | 0 | 0 |
 | [algokit goal - automatically run the localnet docker container it it's not already running](https://github.com/algorandfoundation/algokit-cli/issues/357) | 0 | 0 |
 | [Update Python VSCode settings](https://github.com/algorandfoundation/algokit-cli/issues/356) | 0 | 0 |
