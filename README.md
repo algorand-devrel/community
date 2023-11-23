@@ -62,11 +62,7 @@ This tracker is used to gauge community interest in different features or improv
 | [Update the the IPFS upload task to use the new web3.storage api](https://github.com/algorandfoundation/algokit-cli/issues/358) | 0 | 0 |
 | [algokit goal - automatically run the localnet docker container it it's not already running](https://github.com/algorandfoundation/algokit-cli/issues/357) | 0 | 0 |
 | [Update Python VSCode settings](https://github.com/algorandfoundation/algokit-cli/issues/356) | 0 | 0 |
-| [Use official indexer image for localnet ](https://github.com/algorandfoundation/algokit-cli/issues/355) | 0 | 0 |
-| [feat: migrating localnet to latest indexer v3.x images](https://github.com/algorandfoundation/algokit-cli/pull/351) | 0 | 0 |
-| [algokit localnet start - ledger does not have entry 1](https://github.com/algorandfoundation/algokit-cli/issues/320) | 0 | 0 |
 | [PyInstaller](https://github.com/algorandfoundation/algokit-cli/pull/288) | 0 | 0 |
 | [Update docker version command](https://github.com/algorandfoundation/algokit-cli/pull/287) | 0 | 0 |
 | [[CRITICAL] Provide a Security Policy](https://github.com/algorandfoundation/algokit-cli/issues/233) | 0 | 0 |
-| [Migrate to official algorand docker images for algod and indexer once available](https://github.com/algorandfoundation/algokit-cli/issues/230) | 0 | 0 |
 | [algokit doctor errors flagged after windows installation steps followed](https://github.com/algorandfoundation/algokit-cli/issues/228) | 0 | 0 |
