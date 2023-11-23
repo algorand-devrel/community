@@ -25,7 +25,7 @@ This tracker is used to gauge community interest in different features or improv
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
 | [Allow sorting of responses](https://github.com/algorand/indexer/issues/389) | 12 | 0 |
-| [Search by group-id to get all Transactions within Group](https://github.com/algorand/indexer/issues/135) | 9 | 0 |
+| [Search by group-id to get all Transactions within Group](https://github.com/algorand/indexer/issues/135) | 10 | 0 |
 | [Application Transaction Filters](https://github.com/algorand/indexer/issues/809) | 3 | 0 |
 
 ## pyteal
@@ -58,7 +58,6 @@ This tracker is used to gauge community interest in different features or improv
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
-| [chore: ruff improvements](https://github.com/algorandfoundation/algokit-cli/pull/359) | 0 | 0 |
 | [Update the the IPFS upload task to use the new web3.storage api](https://github.com/algorandfoundation/algokit-cli/issues/358) | 0 | 0 |
 | [algokit goal - automatically run the localnet docker container it it's not already running](https://github.com/algorandfoundation/algokit-cli/issues/357) | 0 | 0 |
 | [Update Python VSCode settings](https://github.com/algorandfoundation/algokit-cli/issues/356) | 0 | 0 |
