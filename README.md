@@ -59,11 +59,8 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
 | [Conduit container is not starting](https://github.com/algorandfoundation/algokit-cli/issues/364) | 0 | 0 |
-| [localnet status fails even when "good"](https://github.com/algorandfoundation/algokit-cli/issues/363) | 0 | 0 |
-| [fix: Removing outdated reference to `algokit sandbox` command](https://github.com/algorandfoundation/algokit-cli/pull/362) | 0 | 0 |
 | [Update the the IPFS upload task to use the new web3.storage api](https://github.com/algorandfoundation/algokit-cli/issues/358) | 0 | 0 |
 | [algokit goal - automatically run the localnet docker container it it's not already running](https://github.com/algorandfoundation/algokit-cli/issues/357) | 0 | 0 |
-| [Update Python VSCode settings](https://github.com/algorandfoundation/algokit-cli/issues/356) | 0 | 0 |
 | [PyInstaller](https://github.com/algorandfoundation/algokit-cli/pull/288) | 0 | 0 |
 | [Update docker version command](https://github.com/algorandfoundation/algokit-cli/pull/287) | 0 | 0 |
 | [[CRITICAL] Provide a Security Policy](https://github.com/algorandfoundation/algokit-cli/issues/233) | 0 | 0 |
