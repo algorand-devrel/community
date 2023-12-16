@@ -58,6 +58,7 @@ This tracker is used to gauge community interest in different features or improv
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
+| [chore: puya template](https://github.com/algorandfoundation/algokit-cli/pull/371) | 0 | 0 |
 | [feat: adding algokit analyze - perform static analysis with tealer integration](https://github.com/algorandfoundation/algokit-cli/pull/370) | 0 | 0 |
 | [algokit goal - automatically run the localnet docker container it it's not already running](https://github.com/algorandfoundation/algokit-cli/issues/357) | 0 | 0 |
 | [PyInstaller](https://github.com/algorandfoundation/algokit-cli/pull/288) | 0 | 0 |
