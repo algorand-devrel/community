@@ -58,7 +58,9 @@ This tracker is used to gauge community interest in different features or improv
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
-| [feat: nuitka cicd setup](https://github.com/algorandfoundation/algokit-cli/pull/393) | 0 | 0 |
+| [docs: adr on native binaries](https://github.com/algorandfoundation/algokit-cli/pull/395) | 0 | 0 |
+| [feat: cibuildwheel (poc for ADR)](https://github.com/algorandfoundation/algokit-cli/pull/394) | 0 | 0 |
+| [feat: nuitka cicd setup (poc for ADR)](https://github.com/algorandfoundation/algokit-cli/pull/393) | 0 | 0 |
 | [MacOS users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/389) | 0 | 0 |
 | [Linux users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/388) | 0 | 0 |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 0 | 0 |
@@ -66,7 +68,7 @@ This tracker is used to gauge community interest in different features or improv
 | [Evaluate options for distributing the native binary](https://github.com/algorandfoundation/algokit-cli/issues/385) | 0 | 0 |
 | [Produce a native AlgoKit cli binary](https://github.com/algorandfoundation/algokit-cli/issues/384) | 0 | 0 |
 | [Evaluate options for producing a native binary](https://github.com/algorandfoundation/algokit-cli/issues/383) | 0 | 0 |
-| [feat: pyinstaller cicd setup](https://github.com/algorandfoundation/algokit-cli/pull/382) | 0 | 0 |
+| [feat: pyinstaller cicd setup (poc for ADR)](https://github.com/algorandfoundation/algokit-cli/pull/382) | 0 | 0 |
 | [Re-work the template experience](https://github.com/algorandfoundation/algokit-cli/issues/381) | 0 | 0 |
 | [Python 3.12 support for a transitive dependency `multidict`](https://github.com/algorandfoundation/algokit-cli/issues/378) | 0 | 0 |
 | [feat: adding algokit analyze - perform static analysis with tealer integration](https://github.com/algorandfoundation/algokit-cli/pull/370) | 0 | 0 |
