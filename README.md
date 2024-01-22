@@ -59,8 +59,6 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
 | [docs: adr on native binaries](https://github.com/algorandfoundation/algokit-cli/pull/395) | 0 | 0 |
-| [feat: cibuildwheel (poc for ADR)](https://github.com/algorandfoundation/algokit-cli/pull/394) | 0 | 0 |
-| [feat: nuitka cicd setup (poc for ADR)](https://github.com/algorandfoundation/algokit-cli/pull/393) | 0 | 0 |
 | [MacOS users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/389) | 0 | 0 |
 | [Linux users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/388) | 0 | 0 |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 0 | 0 |
