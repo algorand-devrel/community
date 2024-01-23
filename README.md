@@ -69,7 +69,6 @@ This tracker is used to gauge community interest in different features or improv
 | [feat: pyinstaller cicd setup (poc for ADR)](https://github.com/algorandfoundation/algokit-cli/pull/382) | 0 | 0 |
 | [Re-work the template experience](https://github.com/algorandfoundation/algokit-cli/issues/381) | 0 | 0 |
 | [Python 3.12 support for a transitive dependency `multidict`](https://github.com/algorandfoundation/algokit-cli/issues/378) | 0 | 0 |
-| [feat: adding algokit analyze - perform static analysis with tealer integration](https://github.com/algorandfoundation/algokit-cli/pull/370) | 0 | 0 |
 | [Update docker version command](https://github.com/algorandfoundation/algokit-cli/pull/287) | 0 | 0 |
 | [[CRITICAL] Provide a Security Policy](https://github.com/algorandfoundation/algokit-cli/issues/233) | 0 | 0 |
 | [algokit doctor errors flagged after windows installation steps followed](https://github.com/algorandfoundation/algokit-cli/issues/228) | 0 | 0 |
