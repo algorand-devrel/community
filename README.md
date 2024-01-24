@@ -58,6 +58,7 @@ This tracker is used to gauge community interest in different features or improv
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
+| [chore: bumping artifact stages to v4](https://github.com/algorandfoundation/algokit-cli/pull/397) | 0 | 0 |
 | [docs: adr on native binaries](https://github.com/algorandfoundation/algokit-cli/pull/395) | 0 | 0 |
 | [MacOS users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/389) | 0 | 0 |
 | [Linux users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/388) | 0 | 0 |
