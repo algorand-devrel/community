@@ -65,7 +65,6 @@ This tracker is used to gauge community interest in different features or improv
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 0 | 0 |
 | [Document the options and selected approach for packaging and distributing the AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/386) | 0 | 0 |
 | [Evaluate options for distributing the native binary](https://github.com/algorandfoundation/algokit-cli/issues/385) | 0 | 0 |
-| [Produce a native AlgoKit cli binary](https://github.com/algorandfoundation/algokit-cli/issues/384) | 0 | 0 |
 | [Re-work the template experience](https://github.com/algorandfoundation/algokit-cli/issues/381) | 0 | 0 |
 | [Python 3.12 support for a transitive dependency `multidict`](https://github.com/algorandfoundation/algokit-cli/issues/378) | 0 | 0 |
 | [Update docker version command](https://github.com/algorandfoundation/algokit-cli/pull/287) | 0 | 0 |
