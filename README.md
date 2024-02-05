@@ -58,6 +58,7 @@ This tracker is used to gauge community interest in different features or improv
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
+| [fix: Pyinstaller issues](https://github.com/algorandfoundation/algokit-cli/pull/406) | 0 | 0 |
 | [docs: ADR - native binaries distribution via snap/winget/brew](https://github.com/algorandfoundation/algokit-cli/pull/404) | 0 | 0 |
 | [Improve AlgoKit CLI compatibility with execution via pyinstaller binaries](https://github.com/algorandfoundation/algokit-cli/issues/402) | 0 | 0 |
 | [Puya & Tealscript integration into algokit-cli, removing the need to install them explicitly](https://github.com/algorandfoundation/algokit-cli/issues/400) | 0 | 0 |
