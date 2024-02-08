@@ -58,9 +58,7 @@ This tracker is used to gauge community interest in different features or improv
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
-| [chore: update multidict](https://github.com/algorandfoundation/algokit-cli/pull/409) | 0 | 0 |
 | [AlgoKit maintainers can trigger portability tests to verify validity of pyinstaller binaries](https://github.com/algorandfoundation/algokit-cli/issues/407) | 0 | 0 |
-| [fix: binary execution mode compatibility ](https://github.com/algorandfoundation/algokit-cli/pull/406) | 0 | 0 |
 | [Improve AlgoKit CLI compatibility with execution via pyinstaller binaries](https://github.com/algorandfoundation/algokit-cli/issues/402) | 0 | 0 |
 | [Puya & Tealscript integration into algokit-cli, removing the need to install them explicitly](https://github.com/algorandfoundation/algokit-cli/issues/400) | 0 | 0 |
 | [MacOS users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/389) | 0 | 0 |
@@ -69,7 +67,6 @@ This tracker is used to gauge community interest in different features or improv
 | [Document the options and selected approach for packaging and distributing the AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/386) | 0 | 0 |
 | [Evaluate options for distributing the native binary](https://github.com/algorandfoundation/algokit-cli/issues/385) | 0 | 0 |
 | [Re-work the template experience](https://github.com/algorandfoundation/algokit-cli/issues/381) | 0 | 0 |
-| [Python 3.12 support for a transitive dependency `multidict`](https://github.com/algorandfoundation/algokit-cli/issues/378) | 0 | 0 |
 | [Update docker version command](https://github.com/algorandfoundation/algokit-cli/pull/287) | 0 | 0 |
 | [[CRITICAL] Provide a Security Policy](https://github.com/algorandfoundation/algokit-cli/issues/233) | 0 | 0 |
 | [algokit doctor errors flagged after windows installation steps followed](https://github.com/algorandfoundation/algokit-cli/issues/228) | 0 | 0 |
