@@ -58,6 +58,7 @@ This tracker is used to gauge community interest in different features or improv
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
+| [chore: update to the latest client-generator-ts](https://github.com/algorandfoundation/algokit-cli/pull/410) | 0 | 0 |
 | [AlgoKit maintainers can trigger portability tests to verify validity of pyinstaller binaries](https://github.com/algorandfoundation/algokit-cli/issues/407) | 0 | 0 |
 | [Improve AlgoKit CLI compatibility with execution via pyinstaller binaries](https://github.com/algorandfoundation/algokit-cli/issues/402) | 0 | 0 |
 | [Puya & Tealscript integration into algokit-cli, removing the need to install them explicitly](https://github.com/algorandfoundation/algokit-cli/issues/400) | 0 | 0 |
