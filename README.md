@@ -58,6 +58,7 @@ This tracker is used to gauge community interest in different features or improv
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
+| [feat:  adding snap distribution ci](https://github.com/algorandfoundation/algokit-cli/pull/419) | 0 | 0 |
 | [Enable command orchestration within algokit compliant projects to be managed by algokit-cli](https://github.com/algorandfoundation/algokit-cli/issues/417) | 0 | 0 |
 | [feat: init wizard v2 [draft]](https://github.com/algorandfoundation/algokit-cli/pull/415) | 0 | 0 |
 | [Init wizard v2 - simplified experience for instantiating new templates](https://github.com/algorandfoundation/algokit-cli/issues/412) | 0 | 0 |
