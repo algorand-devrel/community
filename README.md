@@ -58,6 +58,7 @@ This tracker is used to gauge community interest in different features or improv
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
+| [feat: save distribution channel and prompt for update](https://github.com/algorandfoundation/algokit-cli/pull/426) | 0 | 0 |
 | [Allow users to pin to a specific version of the client generator packages](https://github.com/algorandfoundation/algokit-cli/issues/422) | 0 | 0 |
 | [Poetry not found in puya project](https://github.com/algorandfoundation/algokit-cli/issues/420) | 0 | 0 |
 | [feat:  adding snap distribution ci](https://github.com/algorandfoundation/algokit-cli/pull/419) | 0 | 0 |
