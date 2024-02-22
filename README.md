@@ -63,7 +63,7 @@ This tracker is used to gauge community interest in different features or improv
 | [Poetry not found in puya project](https://github.com/algorandfoundation/algokit-cli/issues/420) | 0 | 0 |
 | [feat:  adding snap distribution ci](https://github.com/algorandfoundation/algokit-cli/pull/419) | 0 | 0 |
 | [Enable command orchestration within algokit compliant projects to be managed by algokit-cli](https://github.com/algorandfoundation/algokit-cli/issues/417) | 0 | 0 |
-| [feat: init wizard v2 [draft]](https://github.com/algorandfoundation/algokit-cli/pull/415) | 0 | 0 |
+| [feat: init wizard v2 ](https://github.com/algorandfoundation/algokit-cli/pull/415) | 0 | 0 |
 | [Init wizard v2 - simplified experience for instantiating new templates](https://github.com/algorandfoundation/algokit-cli/issues/412) | 0 | 0 |
 | [chore: update to the latest client-generator-ts](https://github.com/algorandfoundation/algokit-cli/pull/410) | 0 | 0 |
 | [Improve AlgoKit CLI compatibility with execution via pyinstaller binaries](https://github.com/algorandfoundation/algokit-cli/issues/402) | 0 | 0 |
