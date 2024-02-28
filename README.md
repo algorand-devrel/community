@@ -59,7 +59,7 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
-| [fix: algod container proper SIGTERM handling](https://github.com/algorandfoundation/algokit-cli/pull/438) | 0 | 0 |
+| [docs: minor patch in the badge](https://github.com/algorandfoundation/algokit-cli/pull/440) | 0 | 0 |
 | [Remove choco distribution method](https://github.com/algorandfoundation/algokit-cli/issues/437) | 0 | 0 |
 | [Document the new installation methods for the binary algokit](https://github.com/algorandfoundation/algokit-cli/issues/436) | 0 | 0 |
 | [Ensure the check for Python and Pipx is consistent across Algokit CLI](https://github.com/algorandfoundation/algokit-cli/issues/433) | 0 | 0 |
