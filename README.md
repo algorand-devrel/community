@@ -59,6 +59,9 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
+| [docs: update named localnet documents on config file locations](https://github.com/algorandfoundation/algokit-cli/pull/444) | 0 | 0 |
+| [Document Configuration Folder Location for AlgoKit LocalNet](https://github.com/algorandfoundation/algokit-cli/issues/443) | 0 | 0 |
+| [docs: updating installation docs](https://github.com/algorandfoundation/algokit-cli/pull/442) | 0 | 0 |
 | [feat: add compile py command](https://github.com/algorandfoundation/algokit-cli/pull/441) | 0 | 0 |
 | [Remove choco distribution method](https://github.com/algorandfoundation/algokit-cli/issues/437) | 0 | 0 |
 | [Document the new installation methods for the binary algokit](https://github.com/algorandfoundation/algokit-cli/issues/436) | 0 | 0 |
