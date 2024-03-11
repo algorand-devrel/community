@@ -59,6 +59,7 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
+| [docs: update playground init docs](https://github.com/algorandfoundation/algokit-cli/pull/451) | 0 | 0 |
 | [feat: linking and project listing commands](https://github.com/algorandfoundation/algokit-cli/pull/450) | 0 | 0 |
 | [Local dev UI packaging ADR](https://github.com/algorandfoundation/algokit-cli/pull/449) | 0 | 0 |
 | [feat: command orchestration](https://github.com/algorandfoundation/algokit-cli/pull/446) | 0 | 0 |
