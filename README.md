@@ -59,7 +59,6 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
-| [Update algokit.md](https://github.com/algorandfoundation/algokit-cli/pull/452) | 0 | 0 |
 | [feat: linking and project listing commands](https://github.com/algorandfoundation/algokit-cli/pull/450) | 0 | 0 |
 | [Local dev UI packaging ADR](https://github.com/algorandfoundation/algokit-cli/pull/449) | 0 | 0 |
 | [feat: command orchestration](https://github.com/algorandfoundation/algokit-cli/pull/446) | 0 | 0 |
@@ -73,6 +72,7 @@ This tracker is used to gauge community interest in different features or improv
 | [Enable command orchestration within algokit compliant projects to be managed by algokit-cli](https://github.com/algorandfoundation/algokit-cli/issues/417) | 0 | 0 |
 | [chore: update to the latest client-generator-ts](https://github.com/algorandfoundation/algokit-cli/pull/410) | 0 | 0 |
 | [Improve AlgoKit CLI compatibility with execution via pyinstaller binaries](https://github.com/algorandfoundation/algokit-cli/issues/402) | 0 | 0 |
+| [Puya integration into algokit-cli, removing the need to install them explicitly](https://github.com/algorandfoundation/algokit-cli/issues/400) | 0 | 0 |
 | [MacOS users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/389) | 0 | 0 |
 | [Linux users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/388) | 0 | 0 |
 | [Document the options and selected approach for packaging and distributing the AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/386) | 0 | 0 |
