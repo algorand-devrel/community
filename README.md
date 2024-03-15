@@ -59,6 +59,7 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
+| [chore: pin algokit client generator version](https://github.com/algorandfoundation/algokit-cli/pull/455) | 0 | 0 |
 | [feat: command orchestration](https://github.com/algorandfoundation/algokit-cli/pull/446) | 0 | 0 |
 | [docs: native binaries installation docs](https://github.com/algorandfoundation/algokit-cli/pull/442) | 0 | 0 |
 | [Remove choco distribution method](https://github.com/algorandfoundation/algokit-cli/issues/437) | 0 | 0 |
