@@ -66,7 +66,6 @@ This tracker is used to gauge community interest in different features or improv
 | [feat:  native binary distribution via homebrew](https://github.com/algorandfoundation/algokit-cli/pull/432) | 0 | 0 |
 | [feat:  native binary distribution via winget](https://github.com/algorandfoundation/algokit-cli/pull/430) | 0 | 0 |
 | [Allow users to pin to a specific version of the client generator packages](https://github.com/algorandfoundation/algokit-cli/issues/422) | 0 | 0 |
-| [feat:  native binary distribution via snapcraft](https://github.com/algorandfoundation/algokit-cli/pull/419) | 0 | 0 |
 | [Enable command orchestration within algokit compliant projects to be managed by algokit-cli](https://github.com/algorandfoundation/algokit-cli/issues/417) | 0 | 0 |
 | [chore: update to the latest client-generator-ts](https://github.com/algorandfoundation/algokit-cli/pull/410) | 0 | 0 |
 | [Improve AlgoKit CLI compatibility with execution via pyinstaller binaries](https://github.com/algorandfoundation/algokit-cli/issues/402) | 0 | 0 |
