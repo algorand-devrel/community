@@ -59,6 +59,8 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
+| [feat: enable puya integration](https://github.com/algorandfoundation/algokit-cli/pull/457) | 0 | 0 |
+| [[draft] feat - mvp proposal for integrating gh codespaces into 'localnet'](https://github.com/algorandfoundation/algokit-cli/pull/456) | 0 | 0 |
 | [chore: pin algokit client generator version](https://github.com/algorandfoundation/algokit-cli/pull/455) | 0 | 0 |
 | [feat: command orchestration](https://github.com/algorandfoundation/algokit-cli/pull/446) | 0 | 0 |
 | [docs: native binaries installation docs](https://github.com/algorandfoundation/algokit-cli/pull/442) | 0 | 0 |
