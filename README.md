@@ -19,6 +19,7 @@ This tracker is used to gauge community interest in different features or improv
 | [Delete KMD wallet](https://github.com/algorand/go-algorand/issues/3249) | 2 | 0 |
 | [Improve Error messages around unsupported protocol features](https://github.com/algorand/go-algorand/issues/2186) | 2 | 0 |
 | [Improve DevMode with hybrid approach.](https://github.com/algorand/go-algorand/issues/2770) | 1 | 0 |
+| [eval: increase opcode budget with fee credit](https://github.com/algorand/go-algorand/pull/5943) | 0 | 0 |
 | [Expose additional resource utilization metrics on /metrics endpoint](https://github.com/algorand/go-algorand/issues/5097) | 0 | 0 |
 
 ## indexer
@@ -79,5 +80,6 @@ This tracker is used to gauge community interest in different features or improv
 | [Evaluate options for distributing the native binary](https://github.com/algorandfoundation/algokit-cli/issues/385) | 0 | 0 |
 | [Re-work the template experience](https://github.com/algorandfoundation/algokit-cli/issues/381) | 0 | 0 |
 | [Update docker version command](https://github.com/algorandfoundation/algokit-cli/pull/287) | 0 | 0 |
+| [Algokit with Podman](https://github.com/algorandfoundation/algokit-cli/issues/271) | 0 | 0 |
 | [[CRITICAL] Provide a Security Policy](https://github.com/algorandfoundation/algokit-cli/issues/233) | 0 | 0 |
 | [algokit doctor errors flagged after windows installation steps followed](https://github.com/algorandfoundation/algokit-cli/issues/228) | 0 | 0 |
