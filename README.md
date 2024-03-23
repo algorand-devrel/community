@@ -60,6 +60,7 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
+| [feat: LocalNet should run as an archival node so that you can access all blocks](https://github.com/algorandfoundation/algokit-cli/pull/461) | 0 | 0 |
 | [feat: enable puya integration](https://github.com/algorandfoundation/algokit-cli/pull/457) | 0 | 0 |
 | [[draft] feat - mvp proposal for integrating gh codespaces into 'localnet'](https://github.com/algorandfoundation/algokit-cli/pull/456) | 0 | 0 |
 | [chore: pin algokit client generator version](https://github.com/algorandfoundation/algokit-cli/pull/455) | 0 | 0 |
@@ -71,7 +72,6 @@ This tracker is used to gauge community interest in different features or improv
 | [feat:  native binary distribution via winget](https://github.com/algorandfoundation/algokit-cli/pull/430) | 0 | 0 |
 | [Allow users to pin to a specific version of the client generator packages](https://github.com/algorandfoundation/algokit-cli/issues/422) | 0 | 0 |
 | [Enable command orchestration within algokit compliant projects to be managed by algokit-cli](https://github.com/algorandfoundation/algokit-cli/issues/417) | 0 | 0 |
-| [chore: update to the latest client-generator-ts](https://github.com/algorandfoundation/algokit-cli/pull/410) | 0 | 0 |
 | [Improve AlgoKit CLI compatibility with execution via pyinstaller binaries](https://github.com/algorandfoundation/algokit-cli/issues/402) | 0 | 0 |
 | [Puya integration into algokit-cli, removing the need to install them explicitly](https://github.com/algorandfoundation/algokit-cli/issues/400) | 0 | 0 |
 | [MacOS users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/389) | 0 | 0 |
