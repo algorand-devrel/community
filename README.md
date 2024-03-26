@@ -58,13 +58,11 @@ This tracker is used to gauge community interest in different features or improv
 ## algokit-cli
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
-| [feat: LocalNet should run as an archival node so that you can access all blocks](https://github.com/algorandfoundation/algokit-cli/pull/461) | 2 | 0 |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
-| [feat: enable puya integration](https://github.com/algorandfoundation/algokit-cli/pull/457) | 0 | 0 |
+| [chore: update the postgres version used in localnet from 13 to 16](https://github.com/algorandfoundation/algokit-cli/pull/463) | 0 | 0 |
+| [feat: algokit-cli v2 ](https://github.com/algorandfoundation/algokit-cli/pull/462) | 0 | 0 |
 | [[draft] feat - mvp proposal for integrating gh codespaces into 'localnet'](https://github.com/algorandfoundation/algokit-cli/pull/456) | 0 | 0 |
-| [chore: pin algokit client generator version](https://github.com/algorandfoundation/algokit-cli/pull/455) | 0 | 0 |
-| [feat: command orchestration](https://github.com/algorandfoundation/algokit-cli/pull/446) | 0 | 0 |
 | [docs: native binaries installation docs](https://github.com/algorandfoundation/algokit-cli/pull/442) | 0 | 0 |
 | [Remove choco distribution method](https://github.com/algorandfoundation/algokit-cli/issues/437) | 0 | 0 |
 | [Document the new installation methods for the binary algokit](https://github.com/algorandfoundation/algokit-cli/issues/436) | 0 | 0 |
