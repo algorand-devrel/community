@@ -61,7 +61,6 @@ This tracker is used to gauge community interest in different features or improv
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
 | [Cannot create fullstack project using algokit init on mac](https://github.com/algorandfoundation/algokit-cli/issues/464) | 0 | 0 |
-| [feat: algokit-cli v2 ](https://github.com/algorandfoundation/algokit-cli/pull/462) | 0 | 0 |
 | [[draft] feat - mvp proposal for integrating gh codespaces into 'localnet'](https://github.com/algorandfoundation/algokit-cli/pull/456) | 0 | 0 |
 | [docs: native binaries installation docs](https://github.com/algorandfoundation/algokit-cli/pull/442) | 0 | 0 |
 | [Remove choco distribution method](https://github.com/algorandfoundation/algokit-cli/issues/437) | 0 | 0 |
