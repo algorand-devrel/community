@@ -60,9 +60,7 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
-| [Issue installing Algokit on MacOS](https://github.com/algorandfoundation/algokit-cli/issues/471) | 0 | 0 |
 | [Dappflow reports 404 for transactions from indexer.](https://github.com/algorandfoundation/algokit-cli/issues/470) | 0 | 0 |
-| [Trouble Getting Algokit to Run in Windows 11](https://github.com/algorandfoundation/algokit-cli/issues/469) | 0 | 0 |
 | [Cannot create fullstack project using algokit init on mac](https://github.com/algorandfoundation/algokit-cli/issues/464) | 0 | 0 |
 | [[draft] feat - mvp proposal for integrating gh codespaces into 'localnet'](https://github.com/algorandfoundation/algokit-cli/pull/456) | 0 | 0 |
 | [docs: native binaries installation docs](https://github.com/algorandfoundation/algokit-cli/pull/442) | 0 | 0 |
@@ -70,7 +68,6 @@ This tracker is used to gauge community interest in different features or improv
 | [Document the new installation methods for the binary algokit](https://github.com/algorandfoundation/algokit-cli/issues/436) | 0 | 0 |
 | [feat:  native binary distribution via homebrew](https://github.com/algorandfoundation/algokit-cli/pull/432) | 0 | 0 |
 | [feat:  native binary distribution via winget](https://github.com/algorandfoundation/algokit-cli/pull/430) | 0 | 0 |
-| [Allow users to pin to a specific version of the client generator packages](https://github.com/algorandfoundation/algokit-cli/issues/422) | 0 | 0 |
 | [Enable command orchestration within algokit compliant projects to be managed by algokit-cli](https://github.com/algorandfoundation/algokit-cli/issues/417) | 0 | 0 |
 | [Improve AlgoKit CLI compatibility with execution via pyinstaller binaries](https://github.com/algorandfoundation/algokit-cli/issues/402) | 0 | 0 |
 | [Puya integration into algokit-cli, removing the need to install them explicitly](https://github.com/algorandfoundation/algokit-cli/issues/400) | 0 | 0 |
