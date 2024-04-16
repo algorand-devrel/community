@@ -60,7 +60,7 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
-| [Localnet status command fails with the latest docker compose](https://github.com/algorandfoundation/algokit-cli/issues/475) | 0 | 0 |
+| [chore: lockfile maintenance (bumping minor deps)](https://github.com/algorandfoundation/algokit-cli/pull/478) | 0 | 0 |
 | [Dappflow reports 404 for transactions from indexer.](https://github.com/algorandfoundation/algokit-cli/issues/470) | 0 | 0 |
 | [Cannot create fullstack project using algokit init on mac](https://github.com/algorandfoundation/algokit-cli/issues/464) | 0 | 0 |
 | [feat: GitHub Codespaces support in LocalNet command group](https://github.com/algorandfoundation/algokit-cli/pull/456) | 0 | 0 |
