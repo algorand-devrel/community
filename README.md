@@ -61,6 +61,7 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
+| [chore(deps): bump ruff from 0.3.7 to 0.4.1 in the all group](https://github.com/algorandfoundation/algokit-cli/pull/484) | 0 | 0 |
 | [chore(deps): bump keyring from 24.3.0 to 25.1.0](https://github.com/algorandfoundation/algokit-cli/pull/483) | 0 | 0 |
 | [chore(deps): bump pre-commit from 2.21.0 to 3.7.0](https://github.com/algorandfoundation/algokit-cli/pull/482) | 0 | 0 |
 | [chore(deps): bump questionary from 1.10.0 to 2.0.1](https://github.com/algorandfoundation/algokit-cli/pull/481) | 0 | 0 |
