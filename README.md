@@ -61,6 +61,8 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
+| [docs: refine quick start](https://github.com/algorandfoundation/algokit-cli/pull/487) | 0 | 0 |
+| [algokit intro tutorial oudated info need to be updated](https://github.com/algorandfoundation/algokit-cli/issues/486) | 0 | 0 |
 | [Investigate potential user reported bug in conduit container behaviour within algokit localnet](https://github.com/algorandfoundation/algokit-cli/issues/485) | 0 | 0 |
 | [chore(deps): bump keyring from 24.3.0 to 25.1.0](https://github.com/algorandfoundation/algokit-cli/pull/483) | 0 | 0 |
 | [chore(deps): bump pre-commit from 2.21.0 to 3.7.0](https://github.com/algorandfoundation/algokit-cli/pull/482) | 0 | 0 |
