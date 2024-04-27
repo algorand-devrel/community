@@ -18,9 +18,9 @@ This tracker is used to gauge community interest in different features or improv
 | [Tealdbg - Allow edit of contract source](https://github.com/algorand/go-algorand/issues/3302) | 2 | 0 |
 | [Delete KMD wallet](https://github.com/algorand/go-algorand/issues/3249) | 2 | 0 |
 | [Improve Error messages around unsupported protocol features](https://github.com/algorand/go-algorand/issues/2186) | 2 | 0 |
+| [eval: increase opcode budget with fee credit](https://github.com/algorand/go-algorand/pull/5943) | 1 | 0 |
 | [Improve DevMode with hybrid approach.](https://github.com/algorand/go-algorand/issues/2770) | 1 | 0 |
 | [Add new teal opcodes for the MiMC hash function to support Zero Knowledge Proofs](https://github.com/algorand/go-algorand/pull/5978) | 0 | 0 |
-| [eval: increase opcode budget with fee credit](https://github.com/algorand/go-algorand/pull/5943) | 0 | 0 |
 | [Expose additional resource utilization metrics on /metrics endpoint](https://github.com/algorand/go-algorand/issues/5097) | 0 | 0 |
 
 ## indexer
@@ -75,7 +75,6 @@ This tracker is used to gauge community interest in different features or improv
 | [Document the new installation methods for the binary algokit](https://github.com/algorandfoundation/algokit-cli/issues/436) | 0 | 0 |
 | [feat:  native binary distribution via homebrew](https://github.com/algorandfoundation/algokit-cli/pull/432) | 0 | 0 |
 | [feat:  native binary distribution via winget](https://github.com/algorandfoundation/algokit-cli/pull/430) | 0 | 0 |
-| [Enable command orchestration within algokit compliant projects to be managed by algokit-cli](https://github.com/algorandfoundation/algokit-cli/issues/417) | 0 | 0 |
 | [Improve AlgoKit CLI compatibility with execution via pyinstaller binaries](https://github.com/algorandfoundation/algokit-cli/issues/402) | 0 | 0 |
 | [Puya integration into algokit-cli, removing the need to install them explicitly](https://github.com/algorandfoundation/algokit-cli/issues/400) | 0 | 0 |
 | [MacOS users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/389) | 0 | 0 |
