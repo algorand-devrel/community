@@ -61,6 +61,7 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
+| [docs: remove spelling mistake in intro.md instalation docs](https://github.com/algorandfoundation/algokit-cli/pull/491) | 0 | 0 |
 | [chore(deps): bump keyring from 24.3.0 to 25.2.0](https://github.com/algorandfoundation/algokit-cli/pull/490) | 0 | 0 |
 | [chore(deps): bump python-semantic-release from 7.34.6 to 9.6.0](https://github.com/algorandfoundation/algokit-cli/pull/489) | 0 | 0 |
 | [chore(deps): bump the all group with 5 updates](https://github.com/algorandfoundation/algokit-cli/pull/488) | 0 | 0 |
