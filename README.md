@@ -60,11 +60,9 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
+| [chore(deps): bump python-semantic-release from 7.34.6 to 9.7.2](https://github.com/algorandfoundation/algokit-cli/pull/495) | 0 | 0 |
 | [chore(deps): bump the all group across 1 directory with 6 updates](https://github.com/algorandfoundation/algokit-cli/pull/494) | 0 | 0 |
 | [chore(deps): bump keyring from 24.3.0 to 25.2.0](https://github.com/algorandfoundation/algokit-cli/pull/490) | 0 | 0 |
-| [chore(deps): bump python-semantic-release from 7.34.6 to 9.6.0](https://github.com/algorandfoundation/algokit-cli/pull/489) | 0 | 0 |
-| [docs: refine quick start](https://github.com/algorandfoundation/algokit-cli/pull/487) | 0 | 0 |
-| [algokit intro tutorial oudated info need to be updated](https://github.com/algorandfoundation/algokit-cli/issues/486) | 0 | 0 |
 | [Investigate potential user reported bug in conduit container behaviour within algokit localnet](https://github.com/algorandfoundation/algokit-cli/issues/485) | 0 | 0 |
 | [chore(deps): bump pre-commit from 2.21.0 to 3.7.0](https://github.com/algorandfoundation/algokit-cli/pull/482) | 0 | 0 |
 | [chore(deps): bump questionary from 1.10.0 to 2.0.1](https://github.com/algorandfoundation/algokit-cli/pull/481) | 0 | 0 |
