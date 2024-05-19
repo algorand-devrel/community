@@ -60,6 +60,8 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
+| [fix: task transfer on rekeyed account and update dependencies](https://github.com/algorandfoundation/algokit-cli/pull/498) | 0 | 0 |
+| [algokit task transfer fails using a rekeyed account](https://github.com/algorandfoundation/algokit-cli/issues/497) | 0 | 0 |
 | [chore(deps): bump python-semantic-release from 7.34.6 to 9.7.2](https://github.com/algorandfoundation/algokit-cli/pull/495) | 0 | 0 |
 | [chore(deps): bump the all group across 1 directory with 6 updates](https://github.com/algorandfoundation/algokit-cli/pull/494) | 0 | 0 |
 | [chore(deps): bump keyring from 24.3.0 to 25.2.0](https://github.com/algorandfoundation/algokit-cli/pull/490) | 0 | 0 |
