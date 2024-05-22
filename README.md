@@ -60,7 +60,8 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
-| [fix: remove ConsensusProtocol = future; unpin algod](https://github.com/algorandfoundation/algokit-cli/pull/505) | 0 | 0 |
+| [Doc update suggestion on algokit link](https://github.com/algorandfoundation/algokit-cli/issues/507) | 0 | 0 |
+| [Introduce weekly cron triggered CI to run test suite against current & future algorand consensus versions](https://github.com/algorandfoundation/algokit-cli/issues/506) | 0 | 0 |
 | [[local-dev-experience] implement github codespaces based localnet](https://github.com/algorandfoundation/algokit-cli/issues/504) | 0 | 0 |
 | [chore(deps): bump keyring from 24.3.0 to 25.2.1](https://github.com/algorandfoundation/algokit-cli/pull/503) | 0 | 0 |
 | [chore(deps): bump python-semantic-release from 7.34.6 to 9.7.3](https://github.com/algorandfoundation/algokit-cli/pull/500) | 0 | 0 |
