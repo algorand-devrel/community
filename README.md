@@ -58,6 +58,7 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
+| [[local-dev-experience] Support deep link](https://github.com/algorandfoundation/algokit-cli/issues/512) | 0 | 0 |
 | [chore(deps): bump the all group across 1 directory with 2 updates](https://github.com/algorandfoundation/algokit-cli/pull/511) | 0 | 0 |
 | [chore(deps): bump pre-commit from 2.21.0 to 3.7.1](https://github.com/algorandfoundation/algokit-cli/pull/510) | 0 | 0 |
 | [Improve algokit bootstrap compatibility with conda based python virtual environments](https://github.com/algorandfoundation/algokit-cli/issues/508) | 0 | 0 |
