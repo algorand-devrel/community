@@ -58,6 +58,8 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
+| [chore(deps): bump python-semantic-release from 7.34.6 to 9.8.2](https://github.com/algorandfoundation/algokit-cli/pull/520) | 0 | 0 |
+| [chore(deps): bump ruff from 0.4.8 to 0.4.9 in the all group](https://github.com/algorandfoundation/algokit-cli/pull/519) | 0 | 0 |
 | [[local-dev-experience] Better handling for application calls in transaction graph](https://github.com/algorandfoundation/algokit-cli/issues/517) | 0 | 0 |
 | [[local-dev-experience-ui] user can copy addresses and ids with a copy button](https://github.com/algorandfoundation/algokit-cli/issues/515) | 0 | 0 |
 | [[local-dev-experience-ui] ensure links consistency across the app](https://github.com/algorandfoundation/algokit-cli/issues/514) | 0 | 0 |
@@ -69,7 +71,6 @@ This tracker is used to gauge community interest in different features or improv
 | [Introduce weekly cron triggered CI to run test suite against current & future algorand consensus versions](https://github.com/algorandfoundation/algokit-cli/issues/506) | 0 | 0 |
 | [[local-dev-experience] implement github codespaces based localnet](https://github.com/algorandfoundation/algokit-cli/issues/504) | 0 | 0 |
 | [chore(deps): bump keyring from 24.3.0 to 25.2.1](https://github.com/algorandfoundation/algokit-cli/pull/503) | 0 | 0 |
-| [chore(deps): bump python-semantic-release from 7.34.6 to 9.7.3](https://github.com/algorandfoundation/algokit-cli/pull/500) | 0 | 0 |
 | [Investigate potential user reported bug in conduit container behaviour within algokit localnet](https://github.com/algorandfoundation/algokit-cli/issues/485) | 0 | 0 |
 | [chore(deps): bump questionary from 1.10.0 to 2.0.1](https://github.com/algorandfoundation/algokit-cli/pull/481) | 0 | 0 |
 | [Dappflow reports 404 for transactions from indexer.](https://github.com/algorandfoundation/algokit-cli/issues/470) | 0 | 0 |
