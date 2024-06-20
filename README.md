@@ -58,7 +58,6 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
-| [docs: moving descriptions of workspace vs standalone to project.md](https://github.com/algorandfoundation/algokit-cli/pull/522) | 0 | 0 |
 | [chore(deps): bump python-semantic-release from 7.34.6 to 9.8.2](https://github.com/algorandfoundation/algokit-cli/pull/520) | 0 | 0 |
 | [chore(deps): bump ruff from 0.4.8 to 0.4.9 in the all group](https://github.com/algorandfoundation/algokit-cli/pull/519) | 0 | 0 |
 | [[local-dev-experience] Better handling for application calls in transaction graph](https://github.com/algorandfoundation/algokit-cli/issues/517) | 0 | 0 |
