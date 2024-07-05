@@ -58,6 +58,7 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
+| [feat: adding default algorand network configs to use when no .env.{network} found](https://github.com/algorandfoundation/algokit-cli/pull/533) | 0 | 0 |
 | [Trim down sensible defaults on algokit templates](https://github.com/algorandfoundation/algokit-cli/issues/532) | 0 | 0 |
 | [chore(deps): bump the all group across 1 directory with 5 updates](https://github.com/algorandfoundation/algokit-cli/pull/531) | 0 | 0 |
 | [[local-dev-experience] Users can pause live blocks and transactions view](https://github.com/algorandfoundation/algokit-cli/issues/530) | 0 | 0 |
