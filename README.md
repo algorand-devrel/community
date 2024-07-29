@@ -58,8 +58,9 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
+| [chore(deps): bump the all group across 1 directory with 5 updates](https://github.com/algorandfoundation/algokit-cli/pull/545) | 0 | 0 |
+| [chore: mint task enhancement](https://github.com/algorandfoundation/algokit-cli/pull/543) | 0 | 0 |
 | [[docs] - update terminology within cli command docstrings](https://github.com/algorandfoundation/algokit-cli/issues/542) | 0 | 0 |
-| [chore(deps): bump the all group across 1 directory with 6 updates](https://github.com/algorandfoundation/algokit-cli/pull/540) | 0 | 0 |
 | [[local-dev-experience] Users can pause live blocks and transactions view](https://github.com/algorandfoundation/algokit-cli/issues/530) | 0 | 0 |
 | [chore(deps): bump python-semantic-release from 7.34.6 to 9.8.2](https://github.com/algorandfoundation/algokit-cli/pull/520) | 0 | 0 |
 | [[local-dev-experience] Better handling for application calls in transaction graph](https://github.com/algorandfoundation/algokit-cli/issues/517) | 0 | 0 |
@@ -81,7 +82,6 @@ This tracker is used to gauge community interest in different features or improv
 | [Remove choco distribution method](https://github.com/algorandfoundation/algokit-cli/issues/437) | 0 | 0 |
 | [Document the new installation methods for the binary algokit](https://github.com/algorandfoundation/algokit-cli/issues/436) | 0 | 0 |
 | [feat:  native binary distribution via homebrew](https://github.com/algorandfoundation/algokit-cli/pull/432) | 0 | 0 |
-| [feat:  native binary distribution via winget](https://github.com/algorandfoundation/algokit-cli/pull/430) | 0 | 0 |
 | [Improve AlgoKit CLI compatibility with execution via pyinstaller binaries](https://github.com/algorandfoundation/algokit-cli/issues/402) | 0 | 0 |
 | [Puya integration into algokit-cli, removing the need to install them explicitly](https://github.com/algorandfoundation/algokit-cli/issues/400) | 0 | 0 |
 | [MacOS users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/389) | 0 | 0 |
