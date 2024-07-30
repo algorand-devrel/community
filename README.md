@@ -58,6 +58,8 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
+| [chore(deps): bump pre-commit from 2.21.0 to 3.8.0](https://github.com/algorandfoundation/algokit-cli/pull/547) | 0 | 0 |
+| [Algokit can't find chocolatey and node.js ](https://github.com/algorandfoundation/algokit-cli/issues/546) | 0 | 0 |
 | [chore(deps): bump the all group across 1 directory with 5 updates](https://github.com/algorandfoundation/algokit-cli/pull/545) | 0 | 0 |
 | [chore: mint task enhancement](https://github.com/algorandfoundation/algokit-cli/pull/543) | 0 | 0 |
 | [[docs] - update terminology within cli command docstrings](https://github.com/algorandfoundation/algokit-cli/issues/542) | 0 | 0 |
@@ -68,12 +70,10 @@ This tracker is used to gauge community interest in different features or improv
 | [[local-dev-experience-ui] ensure links consistency across the app](https://github.com/algorandfoundation/algokit-cli/issues/514) | 0 | 0 |
 | [[local-dev-experience-ui] Users can collapse/expand sub transactions](https://github.com/algorandfoundation/algokit-cli/issues/513) | 0 | 0 |
 | [[local-dev-experience] Support deep link](https://github.com/algorandfoundation/algokit-cli/issues/512) | 0 | 0 |
-| [chore(deps): bump pre-commit from 2.21.0 to 3.7.1](https://github.com/algorandfoundation/algokit-cli/pull/510) | 0 | 0 |
 | [Improve algokit bootstrap compatibility with conda based python virtual environments](https://github.com/algorandfoundation/algokit-cli/issues/508) | 0 | 0 |
 | [Doc update suggestion on algokit link](https://github.com/algorandfoundation/algokit-cli/issues/507) | 0 | 0 |
 | [Introduce weekly cron triggered CI to run test suite against current & future algorand consensus versions](https://github.com/algorandfoundation/algokit-cli/issues/506) | 0 | 0 |
 | [[local-dev-experience] implement github codespaces based localnet](https://github.com/algorandfoundation/algokit-cli/issues/504) | 0 | 0 |
-| [chore(deps): bump keyring from 24.3.0 to 25.2.1](https://github.com/algorandfoundation/algokit-cli/pull/503) | 0 | 0 |
 | [Investigate potential user reported bug in conduit container behaviour within algokit localnet](https://github.com/algorandfoundation/algokit-cli/issues/485) | 0 | 0 |
 | [chore(deps): bump questionary from 1.10.0 to 2.0.1](https://github.com/algorandfoundation/algokit-cli/pull/481) | 0 | 0 |
 | [Dappflow reports 404 for transactions from indexer.](https://github.com/algorandfoundation/algokit-cli/issues/470) | 0 | 0 |
