@@ -58,8 +58,6 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
-| [fix: build binaries with the correct version information](https://github.com/algorandfoundation/algokit-cli/pull/550) | 0 | 0 |
-| [fix: add warning for cases when explore is used within wsl](https://github.com/algorandfoundation/algokit-cli/pull/549) | 0 | 0 |
 | [Enhancing user experience with mint command](https://github.com/algorandfoundation/algokit-cli/issues/548) | 0 | 0 |
 | [chore(deps): bump pre-commit from 2.21.0 to 3.8.0](https://github.com/algorandfoundation/algokit-cli/pull/547) | 0 | 0 |
 | [Algokit can't find chocolatey and node.js ](https://github.com/algorandfoundation/algokit-cli/issues/546) | 0 | 0 |
