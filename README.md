@@ -58,10 +58,8 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
+| [chore(deps): bump the all group across 1 directory with 10 updates](https://github.com/algorandfoundation/algokit-cli/pull/558) | 0 | 0 |
 | [chore: explicit sequential execution; extra args param for run/deploy commands](https://github.com/algorandfoundation/algokit-cli/pull/557) | 0 | 0 |
-| [chore(deps): bump the all group across 1 directory with 10 updates](https://github.com/algorandfoundation/algokit-cli/pull/556) | 0 | 0 |
-| [chore(deps): bump pre-commit from 2.21.0 to 3.8.0](https://github.com/algorandfoundation/algokit-cli/pull/547) | 0 | 0 |
-| [Algokit can't find chocolatey and node.js ](https://github.com/algorandfoundation/algokit-cli/issues/546) | 0 | 0 |
 | [[docs] - update terminology within cli command docstrings](https://github.com/algorandfoundation/algokit-cli/issues/542) | 0 | 0 |
 | [chore(deps): bump python-semantic-release from 7.34.6 to 9.8.2](https://github.com/algorandfoundation/algokit-cli/pull/520) | 0 | 0 |
 | [Improve algokit bootstrap compatibility with conda based python virtual environments](https://github.com/algorandfoundation/algokit-cli/issues/508) | 0 | 0 |
