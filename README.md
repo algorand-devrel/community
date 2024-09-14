@@ -56,6 +56,7 @@ This tracker is used to gauge community interest in different features or improv
 ## algokit-cli
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
+| [Ability to pass dev mode on/off as part of named localnet start, ability to specify custom path to named localnets ](https://github.com/algorandfoundation/algokit-cli/issues/568) | 1 | 0 |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
 | [chore(deps): bump the all group across 1 directory with 9 updates](https://github.com/algorandfoundation/algokit-cli/pull/567) | 0 | 0 |
