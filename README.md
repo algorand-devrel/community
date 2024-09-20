@@ -58,7 +58,7 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
-| [chore: minor patches in cd pipeline](https://github.com/algorandfoundation/algokit-cli/pull/574) | 0 | 0 |
+| [Portability tests for wheels (in addition to existing binary portability tests)](https://github.com/algorandfoundation/algokit-cli/issues/576) | 0 | 0 |
 | [chore(deps): bump the all group across 1 directory with 3 updates](https://github.com/algorandfoundation/algokit-cli/pull/572) | 0 | 0 |
 | [[docs] - update terminology within cli command docstrings](https://github.com/algorandfoundation/algokit-cli/issues/542) | 0 | 0 |
 | [chore(deps): bump python-semantic-release from 7.34.6 to 9.8.2](https://github.com/algorandfoundation/algokit-cli/pull/520) | 0 | 0 |
@@ -70,11 +70,9 @@ This tracker is used to gauge community interest in different features or improv
 | [Dappflow reports 404 for transactions from indexer.](https://github.com/algorandfoundation/algokit-cli/issues/470) | 0 | 0 |
 | [Cannot create fullstack project using algokit init on mac](https://github.com/algorandfoundation/algokit-cli/issues/464) | 0 | 0 |
 | [Remove choco distribution method](https://github.com/algorandfoundation/algokit-cli/issues/437) | 0 | 0 |
-| [Improve AlgoKit CLI compatibility with execution via pyinstaller binaries](https://github.com/algorandfoundation/algokit-cli/issues/402) | 0 | 0 |
 | [Puya integration into algokit-cli, removing the need to install them explicitly](https://github.com/algorandfoundation/algokit-cli/issues/400) | 0 | 0 |
 | [Linux users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/388) | 0 | 0 |
 | [Document the options and selected approach for packaging and distributing the AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/386) | 0 | 0 |
-| [Evaluate options for distributing the native binary](https://github.com/algorandfoundation/algokit-cli/issues/385) | 0 | 0 |
 | [Re-work the template experience](https://github.com/algorandfoundation/algokit-cli/issues/381) | 0 | 0 |
 | [Update docker version command](https://github.com/algorandfoundation/algokit-cli/pull/287) | 0 | 0 |
 | [[CRITICAL] Provide a Security Policy](https://github.com/algorandfoundation/algokit-cli/issues/233) | 0 | 0 |
