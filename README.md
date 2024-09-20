@@ -56,11 +56,10 @@ This tracker is used to gauge community interest in different features or improv
 ## algokit-cli
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
-| [Ability to pass dev mode on/off as part of named localnet start, ability to specify custom path to named localnets ](https://github.com/algorandfoundation/algokit-cli/issues/568) | 1 | 0 |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
-| [chore(deps): bump the all group across 1 directory with 9 updates](https://github.com/algorandfoundation/algokit-cli/pull/571) | 0 | 0 |
-| [feat: adding flags to enable dev mode; flags for custom path to localnet config](https://github.com/algorandfoundation/algokit-cli/pull/569) | 0 | 0 |
+| [chore: minor patches in cd pipeline](https://github.com/algorandfoundation/algokit-cli/pull/574) | 0 | 0 |
+| [chore(deps): bump the all group across 1 directory with 3 updates](https://github.com/algorandfoundation/algokit-cli/pull/572) | 0 | 0 |
 | [[docs] - update terminology within cli command docstrings](https://github.com/algorandfoundation/algokit-cli/issues/542) | 0 | 0 |
 | [chore(deps): bump python-semantic-release from 7.34.6 to 9.8.2](https://github.com/algorandfoundation/algokit-cli/pull/520) | 0 | 0 |
 | [Improve algokit bootstrap compatibility with conda based python virtual environments](https://github.com/algorandfoundation/algokit-cli/issues/508) | 0 | 0 |
@@ -70,9 +69,7 @@ This tracker is used to gauge community interest in different features or improv
 | [chore(deps): bump questionary from 1.10.0 to 2.0.1](https://github.com/algorandfoundation/algokit-cli/pull/481) | 0 | 0 |
 | [Dappflow reports 404 for transactions from indexer.](https://github.com/algorandfoundation/algokit-cli/issues/470) | 0 | 0 |
 | [Cannot create fullstack project using algokit init on mac](https://github.com/algorandfoundation/algokit-cli/issues/464) | 0 | 0 |
-| [docs: native binaries installation docs](https://github.com/algorandfoundation/algokit-cli/pull/442) | 0 | 0 |
 | [Remove choco distribution method](https://github.com/algorandfoundation/algokit-cli/issues/437) | 0 | 0 |
-| [Document the new installation methods for the binary algokit](https://github.com/algorandfoundation/algokit-cli/issues/436) | 0 | 0 |
 | [Improve AlgoKit CLI compatibility with execution via pyinstaller binaries](https://github.com/algorandfoundation/algokit-cli/issues/402) | 0 | 0 |
 | [Puya integration into algokit-cli, removing the need to install them explicitly](https://github.com/algorandfoundation/algokit-cli/issues/400) | 0 | 0 |
 | [Linux users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/388) | 0 | 0 |
