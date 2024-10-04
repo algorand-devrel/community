@@ -58,7 +58,6 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
-| [[Localnet] add support for starting localnet onto an existing external docker network](https://github.com/algorandfoundation/algokit-cli/issues/581) | 0 | 0 |
 | [chore(deps): bump the all group across 1 directory with 3 updates](https://github.com/algorandfoundation/algokit-cli/pull/580) | 0 | 0 |
 | [AlgoKit LocalNet Starting Up Issue](https://github.com/algorandfoundation/algokit-cli/issues/579) | 0 | 0 |
 | [Portability tests for wheels (in addition to existing binary portability tests)](https://github.com/algorandfoundation/algokit-cli/issues/576) | 0 | 0 |
