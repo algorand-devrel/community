@@ -76,7 +76,6 @@ This tracker is used to gauge community interest in different features or improv
 | [Puya integration into algokit-cli, removing the need to install them explicitly](https://github.com/algorandfoundation/algokit-cli/issues/400) | 0 | 0 |
 | [Linux users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/388) | 0 | 0 |
 | [Document the options and selected approach for packaging and distributing the AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/386) | 0 | 0 |
-| [Re-work the template experience](https://github.com/algorandfoundation/algokit-cli/issues/381) | 0 | 0 |
 | [Update docker version command](https://github.com/algorandfoundation/algokit-cli/pull/287) | 0 | 0 |
 | [[CRITICAL] Provide a Security Policy](https://github.com/algorandfoundation/algokit-cli/issues/233) | 0 | 0 |
 | [algokit doctor errors flagged after windows installation steps followed](https://github.com/algorandfoundation/algokit-cli/issues/228) | 0 | 0 |
