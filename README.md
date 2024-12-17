@@ -19,7 +19,6 @@ This tracker is used to gauge community interest in different features or improv
 | [Improve Error messages around unsupported protocol features](https://github.com/algorand/go-algorand/issues/2186) | 2 | 0 |
 | [eval: increase opcode budget with fee credit](https://github.com/algorand/go-algorand/pull/5943) | 1 | 0 |
 | [Improve DevMode with hybrid approach.](https://github.com/algorand/go-algorand/issues/2770) | 1 | 0 |
-| [AVM: new teal opcodes for the MiMC hash function to support Zero Knowledge Proofs](https://github.com/algorand/go-algorand/pull/5978) | 0 | 0 |
 | [Expose additional resource utilization metrics on /metrics endpoint](https://github.com/algorand/go-algorand/issues/5097) | 0 | 0 |
 
 ## indexer
