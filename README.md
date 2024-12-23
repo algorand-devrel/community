@@ -57,6 +57,7 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
+| [`algokit generate client` should detect the most applicable app specs in a directory](https://github.com/algorandfoundation/algokit-cli/issues/598) | 0 | 0 |
 | [Task IPFS: support JWT from environment ](https://github.com/algorandfoundation/algokit-cli/issues/597) | 0 | 0 |
 | [chore(deps): bump the all group across 1 directory with 11 updates](https://github.com/algorandfoundation/algokit-cli/pull/594) | 0 | 0 |
 | [Error: Failed to add alias](https://github.com/algorandfoundation/algokit-cli/issues/585) | 0 | 0 |
