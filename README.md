@@ -57,11 +57,8 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
-| [fix: handle client generation in a dir containing multiple app spec types](https://github.com/algorandfoundation/algokit-cli/pull/599) | 0 | 0 |
-| [`algokit generate client` should detect the most applicable app specs in a directory](https://github.com/algorandfoundation/algokit-cli/issues/598) | 0 | 0 |
 | [Task IPFS: support JWT from environment ](https://github.com/algorandfoundation/algokit-cli/issues/597) | 0 | 0 |
 | [chore(deps): bump the all group across 1 directory with 11 updates](https://github.com/algorandfoundation/algokit-cli/pull/594) | 0 | 0 |
-| [Error: Failed to add alias](https://github.com/algorandfoundation/algokit-cli/issues/585) | 0 | 0 |
 | [Descriptive warning when running poetry install via bootstrap against templates that require higher min versions of poetry](https://github.com/algorandfoundation/algokit-cli/issues/584) | 0 | 0 |
 | [Portability tests for wheels (in addition to existing binary portability tests)](https://github.com/algorandfoundation/algokit-cli/issues/576) | 0 | 0 |
 | [[docs] - update terminology within cli command docstrings](https://github.com/algorandfoundation/algokit-cli/issues/542) | 0 | 0 |
