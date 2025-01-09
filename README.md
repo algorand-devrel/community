@@ -68,10 +68,7 @@ This tracker is used to gauge community interest in different features or improv
 | [Improve algokit bootstrap compatibility with conda based python virtual environments](https://github.com/algorandfoundation/algokit-cli/issues/508) | 0 | 0 |
 | [Doc update suggestion on algokit link](https://github.com/algorandfoundation/algokit-cli/issues/507) | 0 | 0 |
 | [Introduce weekly cron triggered CI to run test suite against current & future algorand consensus versions](https://github.com/algorandfoundation/algokit-cli/issues/506) | 0 | 0 |
-| [Investigate potential user reported bug in conduit container behaviour within algokit localnet](https://github.com/algorandfoundation/algokit-cli/issues/485) | 0 | 0 |
 | [chore(deps): bump questionary from 1.10.0 to 2.0.1](https://github.com/algorandfoundation/algokit-cli/pull/481) | 0 | 0 |
-| [Dappflow reports 404 for transactions from indexer.](https://github.com/algorandfoundation/algokit-cli/issues/470) | 0 | 0 |
-| [Cannot create fullstack project using algokit init on mac](https://github.com/algorandfoundation/algokit-cli/issues/464) | 0 | 0 |
 | [Remove choco distribution method](https://github.com/algorandfoundation/algokit-cli/issues/437) | 0 | 0 |
 | [Puya integration into algokit-cli, removing the need to install them explicitly](https://github.com/algorandfoundation/algokit-cli/issues/400) | 0 | 0 |
 | [Linux users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/388) | 0 | 0 |
