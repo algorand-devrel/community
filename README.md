@@ -57,7 +57,7 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
-| [docs: update map image](https://github.com/algorandfoundation/algokit-cli/pull/602) | 0 | 0 |
+| [chore: adding conditional to skip codesigning on PR triggers when building binaries](https://github.com/algorandfoundation/algokit-cli/pull/604) | 0 | 0 |
 | [fix: removed mentions to dappflow from ADR document.](https://github.com/algorandfoundation/algokit-cli/pull/601) | 0 | 0 |
 | [Task IPFS: support JWT from environment ](https://github.com/algorandfoundation/algokit-cli/issues/597) | 0 | 0 |
 | [chore(deps): bump the all group across 1 directory with 11 updates](https://github.com/algorandfoundation/algokit-cli/pull/594) | 0 | 0 |
