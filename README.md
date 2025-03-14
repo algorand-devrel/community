@@ -57,6 +57,7 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
+| [chore(docs): Update intro.md link to [OUTDATED] video](https://github.com/algorandfoundation/algokit-cli/pull/613) | 0 | 0 |
 | [feat: puya-ts support under `compile` command group](https://github.com/algorandfoundation/algokit-cli/pull/612) | 0 | 0 |
 | [python3, node and npm: command not found!](https://github.com/algorandfoundation/algokit-cli/issues/609) | 0 | 0 |
 | [Task IPFS: support JWT from environment ](https://github.com/algorandfoundation/algokit-cli/issues/597) | 0 | 0 |
