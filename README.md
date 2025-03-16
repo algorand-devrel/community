@@ -57,6 +57,7 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
+| [AK-194: Updated dev portal links](https://github.com/algorandfoundation/algokit-cli/pull/615) | 0 | 0 |
 | [feat: add typescript template integration](https://github.com/algorandfoundation/algokit-cli/pull/614) | 0 | 0 |
 | [chore(docs): Update intro.md link to [OUTDATED] video](https://github.com/algorandfoundation/algokit-cli/pull/613) | 0 | 0 |
 | [feat: puya-ts support under `compile` command group](https://github.com/algorandfoundation/algokit-cli/pull/612) | 0 | 0 |
