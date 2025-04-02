@@ -57,6 +57,7 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
+| [docs: myst markdown](https://github.com/algorandfoundation/algokit-cli/pull/625) | 0 | 0 |
 | [Failed to start Algokit](https://github.com/algorandfoundation/algokit-cli/issues/624) | 0 | 0 |
 | [chore(docs): Update intro.md link to [OUTDATED] video](https://github.com/algorandfoundation/algokit-cli/pull/613) | 0 | 0 |
 | [python3, node and npm: command not found!](https://github.com/algorandfoundation/algokit-cli/issues/609) | 0 | 0 |
