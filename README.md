@@ -55,7 +55,6 @@ This tracker is used to gauge community interest in different features or improv
 ## algokit-cli
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
-| [[compilation bug/error] lib-pcg-avm: "critical: Invalid UInt64 value", using lib-pcg-avm algopy module](https://github.com/algorandfoundation/algokit-cli/issues/635) | 1 | 0 |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
 | [`algokit explore` doesn't start LORA](https://github.com/algorandfoundation/algokit-cli/issues/638) | 0 | 0 |
