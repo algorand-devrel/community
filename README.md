@@ -55,17 +55,20 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
+| [chore(deps): bump sphinx-click from 4.4.0 to 6.0.0](https://github.com/algorandfoundation/algokit-cli/pull/660) | 0 | 0 |
+| [chore(deps): bump the all group with 5 updates](https://github.com/algorandfoundation/algokit-cli/pull/659) | 0 | 0 |
+| [chore(deps): bump python-semantic-release from 7.34.6 to 10.1.0](https://github.com/algorandfoundation/algokit-cli/pull/658) | 0 | 0 |
+| [chore(deps): bump sphinx from 6.2.1 to 8.1.3](https://github.com/algorandfoundation/algokit-cli/pull/657) | 0 | 0 |
+| [chore(deps): bump questionary from 1.10.0 to 2.1.0](https://github.com/algorandfoundation/algokit-cli/pull/656) | 0 | 0 |
 | [docs: myst markdown](https://github.com/algorandfoundation/algokit-cli/pull/625) | 0 | 0 |
 | [chore(docs): Update intro.md link to [OUTDATED] video](https://github.com/algorandfoundation/algokit-cli/pull/613) | 0 | 0 |
 | [Task IPFS: support JWT from environment ](https://github.com/algorandfoundation/algokit-cli/issues/597) | 0 | 0 |
 | [Descriptive warning when running poetry install via bootstrap against templates that require higher min versions of poetry](https://github.com/algorandfoundation/algokit-cli/issues/584) | 0 | 0 |
 | [Portability tests for wheels (in addition to existing binary portability tests)](https://github.com/algorandfoundation/algokit-cli/issues/576) | 0 | 0 |
 | [[docs] - update terminology within cli command docstrings](https://github.com/algorandfoundation/algokit-cli/issues/542) | 0 | 0 |
-| [chore(deps): bump python-semantic-release from 7.34.6 to 9.8.2](https://github.com/algorandfoundation/algokit-cli/pull/520) | 0 | 0 |
 | [Improve algokit bootstrap compatibility with conda based python virtual environments](https://github.com/algorandfoundation/algokit-cli/issues/508) | 0 | 0 |
 | [Doc update suggestion on algokit link](https://github.com/algorandfoundation/algokit-cli/issues/507) | 0 | 0 |
 | [Introduce weekly cron triggered CI to run test suite against current & future algorand consensus versions](https://github.com/algorandfoundation/algokit-cli/issues/506) | 0 | 0 |
-| [chore(deps): bump questionary from 1.10.0 to 2.0.1](https://github.com/algorandfoundation/algokit-cli/pull/481) | 0 | 0 |
 | [Remove choco distribution method](https://github.com/algorandfoundation/algokit-cli/issues/437) | 0 | 0 |
 | [Puya integration into algokit-cli, removing the need to install them explicitly](https://github.com/algorandfoundation/algokit-cli/issues/400) | 0 | 0 |
 | [Linux users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/388) | 0 | 0 |
