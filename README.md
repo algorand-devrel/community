@@ -24,7 +24,6 @@ This tracker is used to gauge community interest in different features or improv
 ## indexer
 | Title | :+1: | :-1: |
 | ----- | -- | ---- |
-| [Search by group-id to get all Transactions within Group](https://github.com/algorand/indexer/issues/135) | 9 | 0 |
 
 ## pyteal
 | Title | :+1: | :-1: |
@@ -55,8 +54,6 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
-| [chore: warn user that poetry v1.x is not entirely compatible with AlgoKit](https://github.com/algorandfoundation/algokit-cli/pull/670) | 0 | 0 |
-| [chore: support passing client generator args to the language](https://github.com/algorandfoundation/algokit-cli/pull/669) | 0 | 0 |
 | [chore(deps): bump python-semantic-release from 7.34.6 to 10.2.0](https://github.com/algorandfoundation/algokit-cli/pull/667) | 0 | 0 |
 | [chore(deps): bump the all group with 3 updates](https://github.com/algorandfoundation/algokit-cli/pull/666) | 0 | 0 |
 | [chore(deps): bump sphinx-click from 4.4.0 to 6.0.0](https://github.com/algorandfoundation/algokit-cli/pull/660) | 0 | 0 |
