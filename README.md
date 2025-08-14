@@ -56,7 +56,6 @@ This tracker is used to gauge community interest in different features or improv
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
 | [Support npm workspaces for selecting which client generator version to use](https://github.com/algorandfoundation/algokit-cli/issues/675) | 0 | 0 |
 | [chore(deps): bump the all group across 1 directory with 6 updates](https://github.com/algorandfoundation/algokit-cli/pull/674) | 0 | 0 |
-| [feat: pnpm and uv support](https://github.com/algorandfoundation/algokit-cli/pull/672) | 0 | 0 |
 | [chore(deps): bump python-semantic-release from 7.34.6 to 10.2.0](https://github.com/algorandfoundation/algokit-cli/pull/667) | 0 | 0 |
 | [chore(deps): bump sphinx-click from 4.4.0 to 6.0.0](https://github.com/algorandfoundation/algokit-cli/pull/660) | 0 | 0 |
 | [chore(deps): bump sphinx from 6.2.1 to 8.1.3](https://github.com/algorandfoundation/algokit-cli/pull/657) | 0 | 0 |
