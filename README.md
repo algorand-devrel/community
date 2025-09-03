@@ -54,6 +54,7 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
+| [VSplit error when running algokit init in WSL on Windows](https://github.com/algorandfoundation/algokit-cli/issues/679) | 0 | 0 |
 | [chore(deps): bump the all group with 9 updates](https://github.com/algorandfoundation/algokit-cli/pull/678) | 0 | 0 |
 | [chore(deps): bump python-semantic-release from 7.34.6 to 10.3.1](https://github.com/algorandfoundation/algokit-cli/pull/677) | 0 | 0 |
 | [Support npm workspaces for selecting which client generator version to use](https://github.com/algorandfoundation/algokit-cli/issues/675) | 0 | 0 |
