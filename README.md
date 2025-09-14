@@ -54,6 +54,7 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
+| [Remoted obsolete info and fixed typos](https://github.com/algorandfoundation/algokit-cli/pull/687) | 0 | 0 |
 | [chore(deps): bump the all group across 1 directory with 10 updates](https://github.com/algorandfoundation/algokit-cli/pull/683) | 0 | 0 |
 | [chore(deps): bump python-semantic-release from 7.34.6 to 10.3.1](https://github.com/algorandfoundation/algokit-cli/pull/677) | 0 | 0 |
 | [Support npm workspaces for selecting which client generator version to use](https://github.com/algorandfoundation/algokit-cli/issues/675) | 0 | 0 |
