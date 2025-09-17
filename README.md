@@ -54,11 +54,11 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
+| [Docs Issue: CLI command reference TOC is out-of-date](https://github.com/algorandfoundation/algokit-cli/issues/692) | 0 | 0 |
 | [chore(deps): bump sphinx-click from 4.4.0 to 6.1.0](https://github.com/algorandfoundation/algokit-cli/pull/691) | 0 | 0 |
 | [chore(deps): bump questionary from 1.10.0 to 2.1.1](https://github.com/algorandfoundation/algokit-cli/pull/690) | 0 | 0 |
 | [chore(deps): bump python-semantic-release from 7.34.6 to 10.4.1](https://github.com/algorandfoundation/algokit-cli/pull/689) | 0 | 0 |
 | [chore(deps): bump the all group across 1 directory with 12 updates](https://github.com/algorandfoundation/algokit-cli/pull/688) | 0 | 0 |
-| [docs: removed obsolete info and fixed typos](https://github.com/algorandfoundation/algokit-cli/pull/687) | 0 | 0 |
 | [Support npm workspaces for selecting which client generator version to use](https://github.com/algorandfoundation/algokit-cli/issues/675) | 0 | 0 |
 | [chore(deps): bump sphinx from 6.2.1 to 8.1.3](https://github.com/algorandfoundation/algokit-cli/pull/657) | 0 | 0 |
 | [docs: myst markdown](https://github.com/algorandfoundation/algokit-cli/pull/625) | 0 | 0 |
