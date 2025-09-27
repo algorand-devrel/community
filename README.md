@@ -54,6 +54,7 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
+| [Unable to run Localnet on Raspberry Pi 5 with Debian 12](https://github.com/algorandfoundation/algokit-cli/issues/695) | 0 | 0 |
 | [Docs Issue: CLI command reference TOC is out-of-date](https://github.com/algorandfoundation/algokit-cli/issues/692) | 0 | 0 |
 | [chore(deps): bump sphinx-click from 4.4.0 to 6.1.0](https://github.com/algorandfoundation/algokit-cli/pull/691) | 0 | 0 |
 | [chore(deps): bump questionary from 1.10.0 to 2.1.1](https://github.com/algorandfoundation/algokit-cli/pull/690) | 0 | 0 |
