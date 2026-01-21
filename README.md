@@ -64,7 +64,6 @@ This tracker is used to gauge community interest in different features or improv
 | [Support npm workspaces for selecting which client generator version to use](https://github.com/algorandfoundation/algokit-cli/issues/675) | 0 | 0 |
 | [chore(deps): bump sphinx from 6.2.1 to 8.1.3](https://github.com/algorandfoundation/algokit-cli/pull/657) | 0 | 0 |
 | [docs: myst markdown](https://github.com/algorandfoundation/algokit-cli/pull/625) | 0 | 0 |
-| [chore(docs): Update intro.md link to [OUTDATED] video](https://github.com/algorandfoundation/algokit-cli/pull/613) | 0 | 0 |
 | [Task IPFS: support JWT from environment ](https://github.com/algorandfoundation/algokit-cli/issues/597) | 0 | 0 |
 | [Descriptive warning when running poetry install via bootstrap against templates that require higher min versions of poetry](https://github.com/algorandfoundation/algokit-cli/issues/584) | 0 | 0 |
 | [Portability tests for wheels (in addition to existing binary portability tests)](https://github.com/algorandfoundation/algokit-cli/issues/576) | 0 | 0 |
