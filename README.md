@@ -54,7 +54,6 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
-| [ci: fix redundant workflow trigger after production release](https://github.com/algorandfoundation/algokit-cli/pull/707) | 0 | 0 |
 | [feat: decouples from algosdk and updates utils](https://github.com/algorandfoundation/algokit-cli/pull/705) | 0 | 0 |
 | [chore(deps): bump the all group across 1 directory with 15 updates](https://github.com/algorandfoundation/algokit-cli/pull/703) | 0 | 0 |
 | [Unable to run Localnet on Raspberry Pi 5 with Debian 12](https://github.com/algorandfoundation/algokit-cli/issues/695) | 0 | 0 |
