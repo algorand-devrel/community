@@ -54,6 +54,7 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
+| [feat: make python template generator call uv x poetry aware](https://github.com/algorandfoundation/algokit-cli/pull/713) | 0 | 0 |
 | [Deployment command is failing silently](https://github.com/algorandfoundation/algokit-cli/issues/710) | 0 | 0 |
 | [docs: discussion doc on alternative distribution mechanisms for the cli](https://github.com/algorandfoundation/algokit-cli/pull/709) | 0 | 0 |
 | [feat: decouples from algosdk and updates utils](https://github.com/algorandfoundation/algokit-cli/pull/705) | 0 | 0 |
