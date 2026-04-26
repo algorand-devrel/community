@@ -54,6 +54,7 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
+| [fix: resolve silent failures in 'algokit project deploy' by improving error logging](https://github.com/algorandfoundation/algokit-cli/pull/718) | 0 | 0 |
 | [Add vibekit to algokit cli + implement it to init ](https://github.com/algorandfoundation/algokit-cli/pull/716) | 0 | 0 |
 | [ci: add devportal publishing workflow](https://github.com/algorandfoundation/algokit-cli/pull/715) | 0 | 0 |
 | [Deployment command is failing silently](https://github.com/algorandfoundation/algokit-cli/issues/710) | 0 | 0 |
