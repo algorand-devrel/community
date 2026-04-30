@@ -60,6 +60,7 @@ This tracker is used to gauge community interest in different features or improv
 | [Deployment command is failing silently](https://github.com/algorandfoundation/algokit-cli/issues/710) | 0 | 0 |
 | [docs: discussion doc on alternative distribution mechanisms for the cli](https://github.com/algorandfoundation/algokit-cli/pull/709) | 0 | 0 |
 | [feat: decouples from algosdk and updates utils](https://github.com/algorandfoundation/algokit-cli/pull/705) | 0 | 0 |
+| [chore(deps): bump the all group across 1 directory with 15 updates](https://github.com/algorandfoundation/algokit-cli/pull/703) | 0 | 0 |
 | [Unable to run Localnet on Raspberry Pi 5 with Debian 12](https://github.com/algorandfoundation/algokit-cli/issues/695) | 0 | 0 |
 | [Docs Issue: CLI command reference TOC is out-of-date](https://github.com/algorandfoundation/algokit-cli/issues/692) | 0 | 0 |
 | [chore(deps): bump sphinx-click from 4.4.0 to 6.1.0](https://github.com/algorandfoundation/algokit-cli/pull/691) | 0 | 0 |
@@ -79,5 +80,6 @@ This tracker is used to gauge community interest in different features or improv
 | [Puya integration into algokit-cli, removing the need to install them explicitly](https://github.com/algorandfoundation/algokit-cli/issues/400) | 0 | 0 |
 | [Linux users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/388) | 0 | 0 |
 | [Document the options and selected approach for packaging and distributing the AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/386) | 0 | 0 |
+| [Update docker version command](https://github.com/algorandfoundation/algokit-cli/pull/287) | 0 | 0 |
 | [[CRITICAL] Provide a Security Policy](https://github.com/algorandfoundation/algokit-cli/issues/233) | 0 | 0 |
 | [algokit doctor errors flagged after windows installation steps followed](https://github.com/algorandfoundation/algokit-cli/issues/228) | 0 | 0 |
