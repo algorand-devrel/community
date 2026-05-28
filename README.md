@@ -61,7 +61,6 @@ This tracker is used to gauge community interest in different features or improv
 | [ci: add devportal publishing workflow](https://github.com/algorandfoundation/algokit-cli/pull/715) | 0 | 0 |
 | [Deployment command is failing silently](https://github.com/algorandfoundation/algokit-cli/issues/710) | 0 | 0 |
 | [docs: discussion doc on alternative distribution mechanisms for the cli](https://github.com/algorandfoundation/algokit-cli/pull/709) | 0 | 0 |
-| [feat: decouples from algosdk and updates utils](https://github.com/algorandfoundation/algokit-cli/pull/705) | 0 | 0 |
 | [chore(deps): bump the all group across 1 directory with 15 updates](https://github.com/algorandfoundation/algokit-cli/pull/703) | 0 | 0 |
 | [Unable to run Localnet on Raspberry Pi 5 with Debian 12](https://github.com/algorandfoundation/algokit-cli/issues/695) | 0 | 0 |
 | [Docs Issue: CLI command reference TOC is out-of-date](https://github.com/algorandfoundation/algokit-cli/issues/692) | 0 | 0 |
