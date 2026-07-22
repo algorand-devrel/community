@@ -53,6 +53,7 @@ This tracker is used to gauge community interest in different features or improv
 | ----- | -- | ---- |
 | [Windows users can easily install the native AlgoKit cli](https://github.com/algorandfoundation/algokit-cli/issues/387) | 1 | 0 |
 | [Prompt user to update AlgoKit when new version is detected](https://github.com/algorandfoundation/algokit-cli/issues/349) | 1 | 0 |
+| [chore: Fix `algokit goal` links](https://github.com/algorandfoundation/algokit-cli/pull/722) | 0 | 0 |
 | [fix: include deploy command output on failure](https://github.com/algorandfoundation/algokit-cli/pull/720) | 0 | 0 |
 | [fix: show deploy command output on failure](https://github.com/algorandfoundation/algokit-cli/pull/719) | 0 | 0 |
 | [fix: resolve silent failures in 'algokit project deploy' by improving error logging](https://github.com/algorandfoundation/algokit-cli/pull/718) | 0 | 0 |
